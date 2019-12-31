@@ -6,7 +6,7 @@ const httpHeader = {
 };
 //
 let episode = {
-    mediaPerSet: 20,
+    mediaPerSet: 10,
     mainPath: "./build/media/list/",
     url: "https://www.namava.ir/api/v1.0/medias/seasons/{{seasonId}}/episodes",
     all() {
@@ -18,7 +18,7 @@ let episode = {
                         set.forEach((folder) => {
                             episode.get(folder);
                         });
-                    }, key * 2000);
+                    }, key * 3000);
                 });
             }
         });
