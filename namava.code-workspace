@@ -1,8 +1,27 @@
 {
-	"folders": [
-		{
-			"path": "."
+	"folders": [{
+		"name": "bot",
+		"path": "bot/"
+	}, {
+		"name": "js",
+		"path": "src/scripts/"
+	}, {
+		"name": "css",
+		"path": "src/styles/"
+	}, {
+		"name": "root",
+		"path": "src/"
+	}, {
+		"path": "."
+	}],
+	"settings": {
+		"files.exclude": {
+			".history": true,
+			"application/cache": true,
+			"application/logs": true,
+			"application/third_party": true,
+			"system": false,
+			"**/index.html": true,
 		}
-	],
-	"settings": {}
+	}
 }
