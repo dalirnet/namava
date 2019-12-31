@@ -1,0 +1,1 @@
+{"lastUpdate":"2019-12-31T14:14:57.060Z","id":26019,"name":"هپی!","image":"/Content/Upload/Images/576e76cb-dae8-47fd-a089-84fc1840fa39.jpg","seasons":[{"id":26021,"name":"هپی! - فصل ۱"}]}

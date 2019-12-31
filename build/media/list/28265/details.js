@@ -1,0 +1,1 @@
+{"lastUpdate":"2019-12-31T14:14:52.994Z","id":28265,"name":"جسیکا جونز","image":"/Content/Upload/Images/08fd10c5-7c98-4e8f-99fe-f32a15b43b69.JPG","seasons":[{"id":28266,"name":"جسیکا جونز - فصل ۱"},{"id":31051,"name":"جسیکا جونز - فصل ۲"}]}

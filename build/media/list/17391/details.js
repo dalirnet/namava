@@ -1,0 +1,1 @@
+{"lastUpdate":"2019-12-31T14:15:05.754Z","id":17391,"name":"شوخی","image":"/Content/Upload/Images/7fd582bb-243e-4849-9f32-4461975f2c0b.jpg","seasons":[{"id":17392,"name":"شوخی - فصل ۱"}]}

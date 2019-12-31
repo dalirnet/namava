@@ -1,0 +1,1 @@
+{"lastUpdate":"2019-12-31T14:15:05.829Z","id":17245,"name":"مجنون","image":"/Content/Upload/Images/b90899d2-ea9b-461e-935d-4d633b6c221a.jpg","seasons":[{"id":17246,"name":"مجنون"}]}

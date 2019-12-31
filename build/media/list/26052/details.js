@@ -1,0 +1,1 @@
+{"lastUpdate":"2019-12-31T14:14:56.955Z","id":26052,"name":"حیات وحش: اندونزی","image":"/Content/Upload/Images/d571c322-bb54-4edb-a009-3ddfe6b32032.JPG","seasons":[{"id":26056,"name":"حیات وحش: اندونزی - فصل ۱"}]}

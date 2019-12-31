@@ -1,0 +1,1 @@
+{"lastUpdate":"2019-12-31T14:14:48.272Z","id":33977,"name":"با نی نی","image":"/Content/Upload/Images/faf6db23-f95d-4817-92f6-f5b171db84f4.jpg","seasons":[{"id":33983,"name":"با نی نی - فصل ۱"}]}

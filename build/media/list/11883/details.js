@@ -1,0 +1,1 @@
+{"lastUpdate":"2019-12-31T14:15:03.648Z","id":11883,"name":"سفرهای علمی","image":"/Content/Upload/Images/bf92b224-b1e8-4e20-b0e7-9aaa2e28bcb6.jpg","seasons":[{"id":11884,"name":"سفرهای علمی - فصل ۱"},{"id":18452,"name":"سفرهای علمی - فصل ۲"}]}

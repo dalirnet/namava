@@ -17,4 +17,7 @@ figlet("N A M A V A - " + args.action, (err, data) => {
     if (args.action == "media") {
         media.get();
     }
+    if (args.action == "episode") {
+        episode.get(4101);
+    }
 });

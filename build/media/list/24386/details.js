@@ -1,0 +1,1 @@
+{"lastUpdate":"2019-12-31T14:14:59.440Z","id":24386,"name":"تام و جری","image":"/Content/Upload/Images/34c449dc-cb08-442f-9f86-570831d3c4dd.jpg","seasons":[{"id":24394,"name":"تام و جری - فصل ۱"}]}

@@ -1,0 +1,1 @@
+{"lastUpdate":"2019-12-31T14:15:12.073Z","id":3970,"name":"کیهان : یک ادیسه فضایی","image":"/Content/Upload/Images/bfa269e2-6f9a-46cf-9a28-21bb9498c98f.jpg","seasons":[{"id":3990,"name":"کیهان : یک ادیسه فضایی"}]}

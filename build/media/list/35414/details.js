@@ -1,0 +1,1 @@
+{"lastUpdate":"2019-12-31T14:14:46.128Z","id":35414,"name":"ذهن تشریح شده","image":"/Content/Upload/Images/f0bf61bb-0fbe-49a8-be7f-bccc32cca1f5.JPG","seasons":[{"id":35437,"name":"ذهن تشریح شده - فصل ۱"}]}

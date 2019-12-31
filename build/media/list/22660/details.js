@@ -1,0 +1,1 @@
+{"lastUpdate":"2019-12-31T14:14:54.827Z","id":22660,"name":"هیولا","image":"/Content/Upload/Images/73893cd3-4e18-4007-8f8a-dfc2eee766c6.jpg","seasons":[{"id":22661,"name":"هیولا - فصل ۱"}]}

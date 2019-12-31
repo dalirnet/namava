@@ -1,0 +1,1 @@
+{"lastUpdate":"2019-12-31T14:15:01.400Z","id":22377,"name":"جزیره لاروا","image":"/Content/Upload/Images/e1700ad3-d3d7-4c4e-8c33-b7e56e1d742e.jpg","seasons":[{"id":22378,"name":"جزیره لاروا - فصل ۱"},{"id":22501,"name":"جزیره لاروا - فصل ۲"}]}

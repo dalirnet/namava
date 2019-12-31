@@ -1,0 +1,1 @@
+{"lastUpdate":"2019-12-31T14:15:10.164Z","id":7892,"name":"آسپرین","image":"/Content/Upload/Images/cd61635b-976f-4628-ab88-a5878407b2e5.jpg","seasons":[{"id":7893,"name":"آسپرین"}]}

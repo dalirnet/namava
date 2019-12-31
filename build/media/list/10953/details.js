@@ -1,0 +1,1 @@
+{"lastUpdate":"2019-12-31T14:15:07.970Z","id":10953,"name":"سیاره آبی ۲","image":"/Content/Upload/Images/fedf48f0-b7b7-4719-8b71-6cd29f555831.jpg","seasons":[{"id":10955,"name":"سیاره آبی ۲"}]}

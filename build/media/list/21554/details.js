@@ -1,0 +1,1 @@
+{"lastUpdate":"2019-12-31T14:14:53.049Z","id":21554,"name":"لژیون","image":"/Content/Upload/Images/c7d97309-2a9c-41bb-b721-2dae1037a278.jpg","seasons":[{"id":21555,"name":"لژیون - فصل ۱"},{"id":26709,"name":"لژیون - فصل ۲"},{"id":29599,"name":"لژیون - فصل ۳"}]}

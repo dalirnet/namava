@@ -1,0 +1,1 @@
+{"lastUpdate":"2019-12-31T14:15:01.310Z","id":18720,"name":"سلسله‌ها","image":"/Content/Upload/Images/a6bdc77e-9936-43e2-b7d0-961ff8a485c6.jpg","seasons":[{"id":18721,"name":"سلسله‌ها - فصل ۱"}]}

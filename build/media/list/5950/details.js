@@ -1,0 +1,1 @@
+{"lastUpdate":"2019-12-31T14:15:10.111Z","id":5950,"name":"حیات وحش کانادا","image":"/Content/Upload/Images/0e234a7e-760d-4d16-bbfb-e9a3668b2d7c.jpg","seasons":[{"id":5954,"name":"حیات وحش کانادا"}]}

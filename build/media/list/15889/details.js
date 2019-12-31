@@ -1,0 +1,1 @@
+{"lastUpdate":"2019-12-31T14:15:03.558Z","id":15889,"name":"کارآگاه گجت","image":"/Content/Upload/Images/63b7cadc-3477-4267-863f-066c242df1f1.jpg","seasons":[{"id":15894,"name":"کارآگاه گجت - فصل ۱"}]}
