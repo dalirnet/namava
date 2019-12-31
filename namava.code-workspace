@@ -17,11 +17,8 @@
 	"settings": {
 		"files.exclude": {
 			".history": true,
-			"application/cache": true,
-			"application/logs": true,
-			"application/third_party": true,
-			"system": false,
-			"**/index.html": true,
+			"**/.history": true,
+			"node_modules": true
 		}
 	}
 }

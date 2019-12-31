@@ -2,4 +2,4 @@
 
 How many episodes have I watched?
 
-[Namava.ir](https://dalirnet.github.io/namava/build/index.html)
+[Use](https://dalirnet.github.io/namava/build/index.html)

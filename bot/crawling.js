@@ -1,18 +1,20 @@
 const figlet = require("figlet");
-const request = require("request-promise");
-const _ = require("lodash");
 const args = require("minimist")(process.argv.slice(2), {
     alias: {
         a: "action"
     },
     default: {
-        action: "media" // episode
+        action: "media" // or episode
     }
 });
-
-
-figlet("NAMAVA - " + args.action, (err, data) => {
+const media = require("./media.js");
+const episode = require("./episode.js");
+//
+figlet("N A M A V A - " + args.action, (err, data) => {
     if (!err) {
         console.log(data);
+    }
+    if (args.action == "media") {
+        media.get();
     }
 });
