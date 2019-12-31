@@ -1,0 +1,44 @@
+{
+  "name": "namava",
+  "version": "1.0.0",
+  "description": "How many episodes have I watched?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalirnet/namava.git"
+  },
+  "keywords": [
+    "namava"
+  ],
+  "author": "AmirRezaDalir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalirnet/namava/issues"
+  },
+  "homepage": "https://github.com/dalirnet/namava#readme",
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "babel-cli": "^6.26.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-cli": "^2.0.1",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-csso": "^3.0.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-tinify": "^1.0.2",
+    "gulp-uglify": "^3.0.2"
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%",
+    "IE 10"
+  ]
+}
