@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T14:15:07.980Z","id":15148,"name":"پدیده‌ها","image":"/Content/Upload/Images/46b4cc63-7b35-454d-8089-8890e3359383.jpg","seasons":[{"id":15153,"name":"پدیده‌ها - فصل ۱"}]}
+{"lastUpdate":"2019-12-31T12:57:29.434Z","id":15148,"name":"پدیده‌ها","image":"/Content/Upload/Images/46b4cc63-7b35-454d-8089-8890e3359383.jpg","seasons":[{"id":15153,"name":"پدیده‌ها - فصل ۱"}]}

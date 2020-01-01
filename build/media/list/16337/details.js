@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T14:15:03.748Z","id":16337,"name":"ممنوعه","image":"/Content/Upload/Images/86c43ffc-0bbd-47e5-a2f6-15893918eb9e.jpg","seasons":[{"id":16338,"name":"ممنوعه - فصل ۱"}]}
+{"lastUpdate":"2019-12-31T12:57:23.105Z","id":16337,"name":"ممنوعه","image":"/Content/Upload/Images/86c43ffc-0bbd-47e5-a2f6-15893918eb9e.jpg","seasons":[{"id":16338,"name":"ممنوعه - فصل ۱"}]}

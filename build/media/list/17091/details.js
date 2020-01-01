@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T14:14:59.414Z","id":17091,"name":"بازی‌های مقدس","image":"/Content/Upload/Images/914400e6-a06c-4329-80ef-2b7a74c0387f.jpg","seasons":[{"id":17099,"name":"بازی‌های مقدس - فصل ۱"}]}
+{"lastUpdate":"2019-12-31T12:57:16.782Z","id":17091,"name":"بازی‌های مقدس","image":"/Content/Upload/Images/914400e6-a06c-4329-80ef-2b7a74c0387f.jpg","seasons":[{"id":17099,"name":"بازی‌های مقدس - فصل ۱"}]}

@@ -10,7 +10,7 @@ const args = require("minimist")(process.argv.slice(2), {
 const media = require("./media.js");
 const episode = require("./episode.js");
 //
-figlet("N A M A V A - " + args.action, (err, data) => {
+figlet("N A M A V A - " + args.action.charAt(0).toUpperCase(), (err, data) => {
     if (!err) {
         console.log(data);
     }
@@ -18,6 +18,7 @@ figlet("N A M A V A - " + args.action, (err, data) => {
         media.get();
     }
     if (args.action == "episode") {
-        episode.all();
+        episode.get();
+        // episode.get(4101);
     }
 });

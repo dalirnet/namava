@@ -46,6 +46,9 @@
     "IE 10"
   ],
   "dependencies": {
+    "cli-progress": "^3.4.0",
+    "cli-table": "^0.3.1",
+    "colors": "^1.4.0",
     "lodash": "^4.17.15",
     "request": "^2.88.0"
   }

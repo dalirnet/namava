@@ -1,48 +1,69 @@
 const fs = require("fs");
+const cliProgress = require("cli-progress");
+const progressPreset = require("./cliProgressPreset");
+var cliTable = require("cli-table");
+const colors = require("colors");
 const request = require("request-promise");
 const _ = require("lodash");
-const httpHeader = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via bot https://github.com/dalirnet/namava)"
-};
-//
+// set var
+const httpHeader = { "User-Agent": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via bot https://github.com/dalirnet/namava)" };
+const progressBar = new cliProgress.MultiBar(progressPreset);
+const mediaSetStatus = progressBar.create(1, 0);
+mediaSetStatus.update(null, { title: "Media Set" });
+const mediaEpisodeStatus = progressBar.create(1, 0);
+mediaEpisodeStatus.update(null, { title: "Media Episode", row: "" });
+// module
 let episode = {
     mediaPerSet: 10,
     mainPath: "./build/media/list/",
     url: "https://www.namava.ir/api/v1.0/medias/seasons/{{seasonId}}/episodes",
-    all() {
-        fs.readdir(episode.mainPath, function (err, folders) {
+    get() {
+        fs.readdir(episode.mainPath, async (err, folders) => {
             if (!err) {
-                let mediaSet = _.chunk(folders, episode.mediaPerSet);
-                mediaSet.forEach((set, key) => {
-                    setTimeout(() => {
-                        set.forEach((folder) => {
-                            episode.get(folder);
-                        });
-                    }, key * 3000);
-                });
+                mediaSetStatus.setTotal(folders.length);
+                let errors = [];
+                let success = 0;
+                for (const folder of folders) {
+                    mediaSetStatus.increment(1);
+                    await episode.media(folder).then(() => {
+                        success++;
+                    }).catch((error) => {
+                        errors.push("Media '" + folder + "' " + error);
+                    });
+                }
+                progressBar.stop();
+                let table = new cliTable({ colWidths: [6, 100] });
+                table.push([colors.green("OK"), "'" + success + "' Media Updated"]);
+                for (const error of errors) {
+                    table.push([colors.red("ERR"), error]);
+                }
+                console.log(table.toString());
             }
         });
     },
-    get(mediaId) {
-        fs.readFile(episode.mainPath + mediaId + "/details.js", "utf8", (err, mediaDetails) => {
-            if (!err) {
-                let mediaObject = JSON.parse(mediaDetails);
-                if (!_.isEmpty(mediaObject)) {
-                    console.log("media [" + mediaId + "]");
-                    mediaObject.seasons.forEach((season) => {
-                        fs.readFile(episode.mainPath + mediaId + "/" + season.id + ".js", "utf8", (_err, seasonDetails) => {
-                            if (!_err) {
-                                let seasonObject = JSON.parse(seasonDetails);
-                                if (!_.isEmpty(seasonObject)) {
-                                    console.log("media [" + mediaId + "] season [" + season.id + "]");
+    media(mediaId) {
+        return new Promise((resolve, reject) => {
+            setTimeout(() => {
+                fs.readFile(episode.mainPath + mediaId + "/details.js", "utf8", async (err, mediaDetails) => {
+                    if (!err) {
+                        let mediaObject = JSON.parse(mediaDetails);
+                        if (!_.isEmpty(mediaObject)) {
+                            mediaEpisodeStatus.setTotal(mediaObject.seasons.length);
+                            mediaEpisodeStatus.update(0, { title: "Media " + mediaId, row: mediaId + "m" });
+                            for (const season of mediaObject.seasons) {
+                                await new Promise((_resolve, _reject) => {
+                                    let seasonObject = {
+                                        lastUpdate: new Date(),
+                                        id: season.id,
+                                        name: season.name,
+                                        episodes: []
+                                    };
                                     request({
                                         uri: encodeURI(_.replace(episode.url, "{{seasonId}}", season.id)),
                                         headers: httpHeader,
                                         json: true
                                     }).then((jsonList) => {
                                         if (jsonList.succeeded) {
-                                            seasonObject.lastUpdate = new Date();
-                                            seasonObject.episodes = [];
                                             _.forEach(jsonList.result, function (episodeItem) {
                                                 seasonObject.episodes.push({
                                                     id: episodeItem.id,
@@ -53,27 +74,24 @@ let episode = {
                                                 });
                                             });
                                             fs.writeFile(episode.mainPath + mediaId + "/" + season.id + ".js", JSON.stringify(seasonObject), "utf8", () => {
-                                                console.log("media [" + mediaId + "] season [" + season.id + "] - episodes");
+                                                mediaEpisodeStatus.increment(1, { row: season.id + "e" });
+                                                _resolve();
                                             });
                                         }
-                                    }).catch((err) => {
-                                        console.log("[ERROR]media [" + mediaId + "] season [" + season.id + "] - " + err.message);
+                                    }).catch((e) => {
+                                        reject("Http Error");
                                     });
-                                } else {
-                                    console.log("[ERROR]media [" + mediaId + "] season [" + season.id + "] - content");
-                                }
-                            }
-                            else {
-                                console.log("[ERROR]media [" + mediaId + "] season [" + season.id + "] - " + err.message);
-                            }
-                        });
-                    });
-                } else {
-                    console.log("[ERROR]media [" + mediaId + "] - content");
-                }
-            } else {
-                console.log("[ERROR]media [" + mediaId + "] - " + err.message);
-            }
+                                });
+                            };
+                            resolve();
+                        } else {
+                            reject("Json Error");
+                        }
+                    } else {
+                        reject("File Error");
+                    }
+                });
+            }, 50);
         });
     }
 };
