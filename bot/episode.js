@@ -17,12 +17,17 @@ let episode = {
     mediaPerSet: 10,
     mainPath: "./build/media/list/",
     url: "https://www.namava.ir/api/v1.0/medias/seasons/{{seasonId}}/episodes",
-    get() {
+    get(id = null) {
         fs.readdir(episode.mainPath, async (err, folders) => {
+            let errors = [];
+            let success = 0;
             if (!err) {
-                mediaSetStatus.setTotal(folders.length);
-                let errors = [];
-                let success = 0;
+                if (_.isNull(id)) {
+                    mediaSetStatus.setTotal(folders.length);
+                } else {
+                    mediaSetStatus.setTotal(1);
+                    folders = [id];
+                }
                 for (const folder of folders) {
                     mediaSetStatus.increment(1);
                     await episode.media(folder).then(() => {
@@ -31,14 +36,17 @@ let episode = {
                         errors.push("Media '" + folder + "' " + error);
                     });
                 }
-                progressBar.stop();
-                let table = new cliTable({ colWidths: [6, 100] });
-                table.push([colors.green("OK"), "'" + success + "' Media Updated"]);
-                for (const error of errors) {
-                    table.push([colors.red("ERR"), error]);
-                }
-                console.log(table.toString());
+
+            } else {
+                errors.push(err.message);
             }
+            progressBar.stop();
+            let table = new cliTable({ colWidths: [6, 100] });
+            table.push([colors.green("OK"), "'" + success + "' Media Updated"]);
+            for (const error of errors) {
+                table.push([colors.red("ERR"), error]);
+            }
+            console.log(table.toString());
         });
     },
     media(mediaId) {
