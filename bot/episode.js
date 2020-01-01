@@ -36,7 +36,6 @@ let episode = {
                         errors.push("Media '" + folder + "' " + error);
                     });
                 }
-
             } else {
                 errors.push(err.message);
             }
