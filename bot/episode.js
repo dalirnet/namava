@@ -22,12 +22,10 @@ let episode = {
             let errors = [];
             let success = 0;
             if (!err) {
-                if (_.isNull(id)) {
-                    mediaSetStatus.setTotal(folders.length);
-                } else {
-                    mediaSetStatus.setTotal(1);
+                if (!_.isNull(id)) {
                     folders = [id];
                 }
+                mediaSetStatus.setTotal(folders.length);
                 for (const folder of folders) {
                     mediaSetStatus.increment(1);
                     await episode.media(folder).then(() => {
