@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T14:15:01.590Z","id":22443,"name":"اشیای تیز","image":"/Content/Upload/Images/8c8f6eb3-7a06-4d95-803d-5e97e0de3117.jpg","seasons":[{"id":22444,"name":"اشیای تیز - فصل ۱"}]}
+{"lastUpdate":"2020-01-02 14:16:07","id":22443,"name":"اشیای تیز","image":"/Content/Upload/Images/8c8f6eb3-7a06-4d95-803d-5e97e0de3117.jpg","seasons":[{"id":22444,"name":"اشیای تیز - فصل ۱"}]}

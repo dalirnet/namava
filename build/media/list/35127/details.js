@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T14:14:46.420Z","id":35127,"name":"ترو و پادشاهی رنگین کمان","image":"/Content/Upload/Images/20cdde8c-f541-48f0-9ddb-055e7d6c8256.JPG","seasons":[{"id":35129,"name":"ترو و پادشاهی رنگین کمان - فصل ۱"}]}
+{"lastUpdate":"2020-01-02 14:15:29","id":35127,"name":"ترو و پادشاهی رنگین کمان","image":"/Content/Upload/Images/20cdde8c-f541-48f0-9ddb-055e7d6c8256.JPG","seasons":[{"id":35129,"name":"ترو و پادشاهی رنگین کمان - فصل ۱"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T14:14:50.468Z","id":30696,"name":"فوتبال رباتی","image":"/Content/Upload/Images/49f284e4-43bd-44f0-83b1-7285d41a7f05.JPG","seasons":[{"id":30697,"name":"فوتبال رباتی"}]}
+{"lastUpdate":"2020-01-02 14:15:39","id":30696,"name":"فوتبال رباتی","image":"/Content/Upload/Images/49f284e4-43bd-44f0-83b1-7285d41a7f05.JPG","seasons":[{"id":30697,"name":"فوتبال رباتی"}]}

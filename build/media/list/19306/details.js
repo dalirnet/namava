@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T14:15:03.542Z","id":19306,"name":"فهرست مسافران","image":"/Content/Upload/Images/66e74429-9afb-4a62-aa8d-b49e71b14ffd.jpg","seasons":[{"id":19308,"name":"فهرست مسافران - فصل ۱"}]}
+{"lastUpdate":"2020-01-02 14:16:11","id":19306,"name":"فهرست مسافران","image":"/Content/Upload/Images/66e74429-9afb-4a62-aa8d-b49e71b14ffd.jpg","seasons":[{"id":19308,"name":"فهرست مسافران - فصل ۱"}]}

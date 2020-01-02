@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T14:14:55.092Z","id":27445,"name":"سگ‌ های نگهبان","image":"/Content/Upload/Images/4887b0f0-c7d2-4984-a0c0-8e940e54f5b8.JPG","seasons":[{"id":27446,"name":"سگ‌ های نگهبان - فصل ۱"}]}
+{"lastUpdate":"2020-01-02 14:15:51","id":27445,"name":"سگ‌ های نگهبان","image":"/Content/Upload/Images/4887b0f0-c7d2-4984-a0c0-8e940e54f5b8.JPG","seasons":[{"id":27446,"name":"سگ‌ های نگهبان - فصل ۱"}]}

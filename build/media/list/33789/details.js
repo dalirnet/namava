@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T14:14:46.271Z","id":33789,"name":"آخرین مرد روی زمین","image":"/Content/Upload/Images/cfd2242a-7ba9-45b2-b990-32ea5a2e5dda.jpg","seasons":[{"id":33809,"name":"آخرین مرد روی زمین - فصل ۱"}]}
+{"lastUpdate":"2020-01-02 14:15:28","id":33789,"name":"آخرین مرد روی زمین","image":"/Content/Upload/Images/cfd2242a-7ba9-45b2-b990-32ea5a2e5dda.jpg","seasons":[{"id":33809,"name":"آخرین مرد روی زمین - فصل ۱"}]}

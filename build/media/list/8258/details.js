@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T12:57:32.586Z","id":8258,"name":"پانشل","image":"/Content/Upload/Images/910fb0b7-8583-483d-809b-d6569dd942ce.jpg","seasons":[{"id":8259,"name":"پانشل"}]}
+{"lastUpdate":"2020-01-02 14:16:25","id":8258,"name":"پانشل","image":"/Content/Upload/Images/910fb0b7-8583-483d-809b-d6569dd942ce.jpg","seasons":[{"id":8259,"name":"پانشل"}]}

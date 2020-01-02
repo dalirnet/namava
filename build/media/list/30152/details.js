@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T14:14:50.628Z","id":30152,"name":"سرزمین کوچک بن و هالی","image":"/Content/Upload/Images/4f966a86-4214-4bb9-8ca5-27ef9fe0e880.JPG","seasons":[{"id":30163,"name":"سرزمین کوچک بن و هالی - فصل ۱"}]}
+{"lastUpdate":"2020-01-02 14:15:40","id":30152,"name":"سرزمین کوچک بن و هالی","image":"/Content/Upload/Images/4f966a86-4214-4bb9-8ca5-27ef9fe0e880.JPG","seasons":[{"id":30163,"name":"سرزمین کوچک بن و هالی - فصل ۱"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T14:14:54.882Z","id":26969,"name":"قیام زمین سیاه","image":"/Content/Upload/Images/33f9435c-188d-41cc-ab24-24716312a5fa.JPG","seasons":[{"id":26970,"name":"قیام زمین سیاه - فصل ۱"}]}
+{"lastUpdate":"2020-01-02 14:15:53","id":26969,"name":"قیام زمین سیاه","image":"/Content/Upload/Images/33f9435c-188d-41cc-ab24-24716312a5fa.JPG","seasons":[{"id":26970,"name":"قیام زمین سیاه - فصل ۱"}]}

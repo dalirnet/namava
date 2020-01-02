@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T14:14:57.793Z","id":23087,"name":"چرنوبیل","image":"/Content/Upload/Images/347358f5-1a2e-45f9-a5b9-32f0d8fa3ee7.jpg","seasons":[{"id":23088,"name":"چرنوبیل - فصل ۱"}]}
+{"lastUpdate":"2020-01-02 14:15:59","id":23087,"name":"چرنوبیل","image":"/Content/Upload/Images/347358f5-1a2e-45f9-a5b9-32f0d8fa3ee7.jpg","seasons":[{"id":23088,"name":"چرنوبیل - فصل ۱"}]}

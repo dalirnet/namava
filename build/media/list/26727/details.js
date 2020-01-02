@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T14:14:54.900Z","id":26727,"name":"نیک","image":"/Content/Upload/Images/ca919395-c8dc-490e-b0f2-78fbd4f49a28.JPG","seasons":[{"id":26728,"name":"نیک - فصل ۱"}]}
+{"lastUpdate":"2020-01-02 14:15:54","id":26727,"name":"نیک","image":"/Content/Upload/Images/ca919395-c8dc-490e-b0f2-78fbd4f49a28.JPG","seasons":[{"id":26728,"name":"نیک - فصل ۱"}]}

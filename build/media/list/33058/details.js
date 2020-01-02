@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T14:14:48.784Z","id":33058,"name":"کارآگاهان جوان","image":"/Content/Upload/Images/9c8a13bd-6a77-4d45-80d2-1247a1640f39.jpg","seasons":[{"id":33071,"name":"کارآگاهان جوان - فصل ۱"}]}
+{"lastUpdate":"2020-01-02 14:15:33","id":33058,"name":"کارآگاهان جوان","image":"/Content/Upload/Images/9c8a13bd-6a77-4d45-80d2-1247a1640f39.jpg","seasons":[{"id":33071,"name":"کارآگاهان جوان - فصل ۱"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T14:14:47.095Z","id":35942,"name":"از استوری بات ها بپرس","image":"/Content/Upload/Images/9acd20dd-5d64-4bc0-8f30-3080645fc1b2.jpg","seasons":[{"id":35954,"name":"از استوری بات ها بپرس - فصل ۱"}]}
+{"lastUpdate":"2020-01-02 14:15:27","id":35942,"name":"از استوری بات ها بپرس","image":"/Content/Upload/Images/9acd20dd-5d64-4bc0-8f30-3080645fc1b2.jpg","seasons":[{"id":35954,"name":"از استوری بات ها بپرس - فصل ۱"}]}

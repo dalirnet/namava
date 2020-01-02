@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T12:57:19.884Z","id":15643,"name":"خوشمزه زشت","image":"/Content/Upload/Images/2333e95f-3f33-4a04-ae84-d2f1093e8825.jpg","seasons":[{"id":15644,"name":"خوشمزه زشت - فصل ۱"}]}
+{"lastUpdate":"2020-01-02 14:16:06","id":15643,"name":"خوشمزه زشت","image":"/Content/Upload/Images/2333e95f-3f33-4a04-ae84-d2f1093e8825.jpg","seasons":[{"id":15644,"name":"خوشمزه زشت - فصل ۱"}]}

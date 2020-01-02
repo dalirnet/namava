@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T14:14:59.609Z","id":23780,"name":"برزرک","image":"/Content/Upload/Images/ca0105e2-7ff0-4c92-8c19-6b7af2462bd0.jpg","seasons":[{"id":23781,"name":"برزرک - فصل ۱"}]}
+{"lastUpdate":"2020-01-02 14:16:02","id":23780,"name":"برزرک","image":"/Content/Upload/Images/ca0105e2-7ff0-4c92-8c19-6b7af2462bd0.jpg","seasons":[{"id":23781,"name":"برزرک - فصل ۱"}]}

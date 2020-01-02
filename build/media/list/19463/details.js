@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T14:15:03.596Z","id":19463,"name":"پادشاهی","image":"/Content/Upload/Images/3969acec-b53f-4fe6-b817-d2793619cc8d.jpg","seasons":[{"id":19475,"name":"پادشاهی - فصل ۱"}]}
+{"lastUpdate":"2020-01-02 14:16:11","id":19463,"name":"پادشاهی","image":"/Content/Upload/Images/3969acec-b53f-4fe6-b817-d2793619cc8d.jpg","seasons":[{"id":19475,"name":"پادشاهی - فصل ۱"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T14:14:50.798Z","id":30112,"name":"لاک پشت های نینجاپونی","image":"/Content/Upload/Images/d9221622-23c2-4333-9d15-4d3b7196f6bd.jpg","seasons":[{"id":30127,"name":"لاک پشت های نینجاپونی - فصل ۱"}]}
+{"lastUpdate":"2020-01-02 14:15:42","id":30112,"name":"لاک پشت های نینجاپونی","image":"/Content/Upload/Images/d9221622-23c2-4333-9d15-4d3b7196f6bd.jpg","seasons":[{"id":30127,"name":"لاک پشت های نینجاپونی - فصل ۱"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T12:57:26.326Z","id":15524,"name":"بی: آغاز","image":"/Content/Upload/Images/d4a9ca4c-fd31-4063-a4d0-1a1dd2bc7a94.jpg","seasons":[{"id":15526,"name":"بی: آغاز - فصل ۱"}]}
+{"lastUpdate":"2020-01-02 14:16:18","id":15524,"name":"بی: آغاز","image":"/Content/Upload/Images/d4a9ca4c-fd31-4063-a4d0-1a1dd2bc7a94.jpg","seasons":[{"id":15526,"name":"بی: آغاز - فصل ۱"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T14:14:53.007Z","id":23715,"name":"داینوتراکس","image":"/Content/Upload/Images/8ad78b04-ef1c-42ba-aab2-93e6d947172b.JPG","seasons":[{"id":23718,"name":"داینوتراکس - فصل ۱"},{"id":25238,"name":"داینوتراکس - فصل ۲"},{"id":29140,"name":"داینوتراکس - فصل ۳"}]}
+{"lastUpdate":"2020-01-02 14:15:44","id":23715,"name":"داینوتراکس","image":"/Content/Upload/Images/8ad78b04-ef1c-42ba-aab2-93e6d947172b.JPG","seasons":[{"id":23718,"name":"داینوتراکس - فصل ۱"},{"id":25238,"name":"داینوتراکس - فصل ۲"},{"id":29140,"name":"داینوتراکس - فصل ۳"}]}

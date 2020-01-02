@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T14:14:48.430Z","id":33481,"name":"بیشه","image":"/Content/Upload/Images/ba8e2ef1-5019-4642-be0c-67e267039f6c.JPG","seasons":[{"id":33515,"name":"بیشه - فصل ۱"}]}
+{"lastUpdate":"2020-01-02 14:15:32","id":33481,"name":"بیشه","image":"/Content/Upload/Images/ba8e2ef1-5019-4642-be0c-67e267039f6c.JPG","seasons":[{"id":33515,"name":"بیشه - فصل ۱"}]}

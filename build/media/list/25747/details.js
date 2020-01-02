@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T14:14:57.281Z","id":25747,"name":"مجموعه انیمیشنی بتمن","image":"/Content/Upload/Images/f8153dcf-b1ee-4c86-89b5-746465278a26.jpg","seasons":[{"id":25748,"name":"مجموعه انیمیشنی بتمن - فصل ۱"}]}
+{"lastUpdate":"2020-01-02 14:15:57","id":25747,"name":"مجموعه انیمیشنی بتمن","image":"/Content/Upload/Images/f8153dcf-b1ee-4c86-89b5-746465278a26.jpg","seasons":[{"id":25748,"name":"مجموعه انیمیشنی بتمن - فصل ۱"}]}

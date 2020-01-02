@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T12:57:10.678Z","id":15135,"name":"۶ ابرقهرمان","image":"/Content/Upload/Images/5e7b2357-6276-4e0d-afb6-c5dcf7a23eb6.jpg","seasons":[{"id":15136,"name":"۶ ابرقهرمان - فصل ۱"},{"id":27842,"name":"۶ ابرقهرمان - فصل ۲"}]}
+{"lastUpdate":"2020-01-02 14:15:49","id":15135,"name":"۶ ابرقهرمان","image":"/Content/Upload/Images/5e7b2357-6276-4e0d-afb6-c5dcf7a23eb6.jpg","seasons":[{"id":15136,"name":"۶ ابرقهرمان - فصل ۱"},{"id":27842,"name":"۶ ابرقهرمان - فصل ۲"}]}

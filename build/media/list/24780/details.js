@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T14:14:57.168Z","id":24780,"name":"آسمان من","image":"/Content/Upload/Images/9c048a78-b07d-4b8e-8bbb-9651766865f4.JPG","seasons":[{"id":24783,"name":"آسمان من - فصل ۱"}]}
+{"lastUpdate":"2020-01-02 14:16:00","id":24780,"name":"آسمان من","image":"/Content/Upload/Images/9c048a78-b07d-4b8e-8bbb-9651766865f4.JPG","seasons":[{"id":24783,"name":"آسمان من - فصل ۱"}]}

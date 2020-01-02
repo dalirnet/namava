@@ -1,1 +1,1 @@
-{"lastUpdate":"2019-12-31T14:14:48.389Z","id":33612,"name":"دکتر هاوس","image":"/Content/Upload/Images/bc7df46a-dec8-42c2-bf51-e2cd6f439674.jpg","seasons":[{"id":33626,"name":"دکتر هاوس - فصل ۱"}]}
+{"lastUpdate":"2020-01-02 14:15:33","id":33612,"name":"دکتر هاوس","image":"/Content/Upload/Images/bc7df46a-dec8-42c2-bf51-e2cd6f439674.jpg","seasons":[{"id":33626,"name":"دکتر هاوس - فصل ۱"}]}
