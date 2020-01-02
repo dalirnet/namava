@@ -1,7 +1,7 @@
 {
   "name": "namava",
   "version": "1.0.0",
-  "description": "How many episodes have I watched?",
+  "description": "How Many Episodes Have I Watched?",
   "main": "index.js",
   "scripts": {
     "media": "node bot/crawling.js --action media",
@@ -46,11 +46,13 @@
     "IE 10"
   ],
   "dependencies": {
+    "bulma": "^0.8.0",
     "cli-progress": "^3.4.0",
     "cli-table": "^0.3.1",
     "colors": "^1.4.0",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "store": "^2.0.12"
   }
 }

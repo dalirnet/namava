@@ -1,24 +1,30 @@
 {
 	"folders": [{
-		"name": "bot",
-		"path": "bot/"
-	}, {
-		"name": "js",
-		"path": "src/scripts/"
-	}, {
-		"name": "css",
-		"path": "src/styles/"
-	}, {
-		"name": "root",
-		"path": "src/"
-	}, {
-		"path": "."
-	}],
+			"name": "bot",
+			"path": "bot/"
+		}, {
+			"name": "js",
+			"path": "src/scripts/"
+		}, {
+			"name": "css",
+			"path": "src/styles/"
+		}, {
+			"name": "root",
+			"path": "src/"
+		}, {
+			"name": "build",
+			"path": "build/"
+		},
+		{
+			"path": "."
+		}
+	],
 	"settings": {
 		"files.exclude": {
 			".history": true,
 			"**/.history": true,
 			"node_modules": true
-		}
+		},
+		"liveServer.settings.multiRootWorkspaceName": "build"
 	}
 }

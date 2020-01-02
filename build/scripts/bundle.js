@@ -1,2 +1,33 @@
-"use strict";!function o(u,i,f){function c(n,r){if(!i[n]){if(!u[n]){var e="function"==typeof require&&require;if(!r&&e)return e(n,!0);if(s)return s(n,!0);throw new Error("Cannot find module '"+n+"'")}var t=i[n]={exports:{}};u[n][0].call(t.exports,function(r){var e=u[n][1][r];return c(e||r)},t,t.exports,o,u,i,f)}return i[n].exports}for(var s="function"==typeof require&&require,r=0;r<f.length;r++)c(f[r]);return c}({1:[function(r,e,n){console.log("ok")},{}]},{},[1]);
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImluZGV4LmpzIl0sIm5hbWVzIjpbImUiLCJ0IiwibiIsInIiLCJzIiwibyIsInUiLCJhIiwicmVxdWlyZSIsImkiLCJFcnJvciIsImYiLCJleHBvcnRzIiwiY2FsbCIsImxlbmd0aCIsIjEiLCJtb2R1bGUiLCJjb25zb2xlIiwibG9nIl0sIm1hcHBpbmdzIjoiY0FBQSxTQUFVQSxFQUFFQyxFQUFFQyxFQUFFQyxHQUFHLFNBQVNDLEVBQUVDLEVBQUVDLEdBQUcsSUFBSUosRUFBRUcsR0FBRyxDQUFDLElBQUlKLEVBQUVJLEdBQUcsQ0FBQyxJQUFJRSxFQUFrQixtQkFBVEMsU0FBcUJBLFFBQVEsSUFBSUYsR0FBR0MsRUFBRSxPQUFPQSxFQUFFRixHQUFFLEdBQUksR0FBR0ksRUFBRSxPQUFPQSxFQUFFSixHQUFFLEdBQUksTUFBTSxJQUFJSyxNQUFNLHVCQUF1QkwsRUFBRSxLQUFLLElBQUlNLEVBQUVULEVBQUVHLEdBQUcsQ0FBQ08sUUFBUSxJQUFJWCxFQUFFSSxHQUFHLEdBQUdRLEtBQUtGLEVBQUVDLFFBQVEsU0FBU1osR0FBRyxJQUFJRSxFQUFFRCxFQUFFSSxHQUFHLEdBQUdMLEdBQUcsT0FBT0ksRUFBRUYsR0FBSUYsSUFBSVcsRUFBRUEsRUFBRUMsUUFBUVosRUFBRUMsRUFBRUMsRUFBRUMsR0FBRyxPQUFPRCxFQUFFRyxHQUFHTyxRQUFrRCxJQUExQyxJQUFJSCxFQUFrQixtQkFBVEQsU0FBcUJBLFFBQWdCSCxFQUFFLEVBQUVBLEVBQUVGLEVBQUVXLE9BQU9ULElBQUlELEVBQUVELEVBQUVFLElBQUksT0FBT0QsRUFBclosQ0FBeVosQ0FBQ1csRUFBRSxDQUFDLFNBQVNQLEVBQVFRLEVBQU9KLEdBQ3JiSyxRQUFRQyxJQUFJLE9BRFgsS0FBQSxHQUFTbEIsQ0FBVCIsImZpbGUiOiJidW5kbGUuanMiLCJzb3VyY2VzQ29udGVudCI6WyIoZnVuY3Rpb24gZSh0LG4scil7ZnVuY3Rpb24gcyhvLHUpe2lmKCFuW29dKXtpZighdFtvXSl7dmFyIGE9dHlwZW9mIHJlcXVpcmU9PVwiZnVuY3Rpb25cIiYmcmVxdWlyZTtpZighdSYmYSlyZXR1cm4gYShvLCEwKTtpZihpKXJldHVybiBpKG8sITApO3Rocm93IG5ldyBFcnJvcihcIkNhbm5vdCBmaW5kIG1vZHVsZSAnXCIrbytcIidcIil9dmFyIGY9bltvXT17ZXhwb3J0czp7fX07dFtvXVswXS5jYWxsKGYuZXhwb3J0cyxmdW5jdGlvbihlKXt2YXIgbj10W29dWzFdW2VdO3JldHVybiBzKG4/bjplKX0sZixmLmV4cG9ydHMsZSx0LG4scil9cmV0dXJuIG5bb10uZXhwb3J0c312YXIgaT10eXBlb2YgcmVxdWlyZT09XCJmdW5jdGlvblwiJiZyZXF1aXJlO2Zvcih2YXIgbz0wO288ci5sZW5ndGg7bysrKXMocltvXSk7cmV0dXJuIHN9KSh7MTpbZnVuY3Rpb24ocmVxdWlyZSxtb2R1bGUsZXhwb3J0cyl7XG5jb25zb2xlLmxvZyhcIm9rXCIpO1xufSx7fV19LHt9LFsxXSkiXX0=
+(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);throw new Error("Cannot find module '"+o+"'")}var f=n[o]={exports:{}};t[o][0].call(f.exports,function(e){var n=t[o][1][e];return s(n?n:e)},f,f.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
+$(document).ready(() => {
+    var list = [];
+    $.getJSON("media/list.js", (data) => {
+        $.each(data.list, (key, val) => {
+            list.push({
+                id: val.id,
+                text: val.name
+            });
+        });
+        $("#search").select2({
+            placeholder: "جستجو تو همه سریال های نماوا",
+            multiple: true,
+            dir: "rtl",
+            width: "100%",
+            data: list,
+            maximumSelectionLength: 1,
+            minimumInputLength: 2,
+            language: {
+                noResults: function () {
+                    return "بدون نتیجه!";
+                },
+                maximumSelected: function () {
+                    return "فقط یک انتخاب!";
+                },
+                inputTooShort: function () {
+                    return "حداقل دو حرف!";
+                },
+            }
+        });
+    });
+});
+},{}]},{},[1])

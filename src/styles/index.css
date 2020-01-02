@@ -1,11 +1,15 @@
+html {
+    background-color: #fafafa;
+}
+
 body {
     font-family: IranSansWebFont, 'Segoe UI', Tahoma;
     margin: 0;
     padding: 0;
     font-size: 14px;
     text-align: center;
-    background: #f1f1f1;
     direction: rtl;
+    line-height: 32px;
 }
 
 input,
@@ -23,8 +27,7 @@ a {
     color: inherit;
 }
 
-input:focus,
-a:focus {
+*:focus {
     outline: none !important;
 }
 
@@ -42,4 +45,59 @@ p,
 span {
     margin: 0;
     vertical-align: middle;
+}
+
+.rtl {
+    direction: rtl;
+}
+
+.ltr {
+    direction: ltr;
+}
+
+.select2-container {
+    line-height: 20px;
+}
+
+.select2-selection__rendered {
+    padding: 0 10px !important;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #f3fbff !important;
+    border: 1px solid #e6faff !important;
+}
+
+.select2-dropdown {
+    border: 1px solid #ebebeb !important;
+}
+
+.select2-container--default .select2-selection--multiple {
+    border: 1px solid #ebebeb !important;
+    font-size: 13px;
+    font-weight: bold;
+    min-height: 42px;
+}
+
+.select2-container .select2-search--inline .select2-search__field {
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.select2-container--default[dir="rtl"] .select2-selection--multiple .select2-selection__choice {
+    margin-left: 10px;
+    margin-top: 7px;
+    font-size: 12px;
+    padding: 5px 5px;
+}
+
+.select2-results__option[aria-selected] {
+    text-align: right;
+    padding: 10px;
+    font-size: 12px;
+}
+
+.select2-results__option {
+    font-size: 12px;
 }
