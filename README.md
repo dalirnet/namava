@@ -22,7 +22,8 @@ npm run episode
 
 
 ### 🎉 Features
-- **Daily Update:** Github version.
-- **Local Storage:** No login required.
+- **Daily Update** Github version.
+- **Local Storage** No login required.
+- **Responsive Design** Smartphone support.
 
 ![screenshot](https://raw.githubusercontent.com/dalirnet/namava/master/banner.png)
