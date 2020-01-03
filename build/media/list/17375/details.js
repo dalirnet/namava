@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:16:16","id":17375,"name":"ماجراهای بازرس","image":"/Content/Upload/Images/5ae4f6b3-2a9f-4237-9b42-ffb978ac3178.jpg","seasons":[{"id":17376,"name":"ماجراهای بازرس"}]}
+{"lastUpdate":"2020-01-03 15:14:01","id":17375,"name":"ماجراهای بازرس","image":"/Content/Upload/Images/5ae4f6b3-2a9f-4237-9b42-ffb978ac3178.jpg","seasons":[{"id":17376,"name":"ماجراهای بازرس"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:15:58","id":25279,"name":"وقتی ما را می‌ بینند","image":"/Content/Upload/Images/b72c08f1-eb66-4862-a7b8-7b529949043e.jpg","seasons":[{"id":25280,"name":"وقتی ما را می‌ بینند - فصل ۱"}]}
+{"lastUpdate":"2020-01-03 15:13:45","id":25279,"name":"وقتی ما را می‌ بینند","image":"/Content/Upload/Images/b72c08f1-eb66-4862-a7b8-7b529949043e.jpg","seasons":[{"id":25280,"name":"وقتی ما را می‌ بینند - فصل ۱"}]}

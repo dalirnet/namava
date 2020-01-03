@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:15:40","id":30070,"name":"نگهبانان","image":"/Content/Upload/Images/61932728-203f-4b75-997d-17006661e70f.JPG","seasons":[{"id":30071,"name":"نگهبانان - فصل ۱"}]}
+{"lastUpdate":"2020-01-03 15:13:28","id":30070,"name":"نگهبانان","image":"/Content/Upload/Images/61932728-203f-4b75-997d-17006661e70f.JPG","seasons":[{"id":30071,"name":"نگهبانان - فصل ۱"}]}

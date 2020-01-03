@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:15:41","id":29759,"name":"بن ۱۰: نیروهای بی پایان","image":"/Content/Upload/Images/54f43885-59b1-4ecd-96af-57a30312d77a.jpg","seasons":[{"id":29761,"name":"بن ۱۰: نیروهای بی پایان - فصل ۱"}]}
+{"lastUpdate":"2020-01-03 15:13:30","id":29759,"name":"بن ۱۰: نیروهای بی پایان","image":"/Content/Upload/Images/54f43885-59b1-4ecd-96af-57a30312d77a.jpg","seasons":[{"id":29761,"name":"بن ۱۰: نیروهای بی پایان - فصل ۱"}]}

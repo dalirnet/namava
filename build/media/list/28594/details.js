@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:15:45","id":28594,"name":"پت و مت","image":"/Content/Upload/Images/16f3a782-bf96-496d-b7b1-6a23978fb2f7.jpg","seasons":[{"id":28595,"name":"پت و مت - فصل ۱"}]}
+{"lastUpdate":"2020-01-03 15:13:33","id":28594,"name":"پت و مت","image":"/Content/Upload/Images/16f3a782-bf96-496d-b7b1-6a23978fb2f7.jpg","seasons":[{"id":28595,"name":"پت و مت - فصل ۱"}]}

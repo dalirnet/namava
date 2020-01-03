@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:15:26","id":36934,"name":"تایتان‌ های نوجوان","image":"/Content/Upload/Images/4f8b6f22-6230-4355-9927-cc357629f511.jpg","seasons":[{"id":36944,"name":"تایتان‌ های نوجوان - فصل ۱"}]}
+{"lastUpdate":"2020-01-03 15:13:10","id":36934,"name":"تایتان‌ های نوجوان","image":"/Content/Upload/Images/73c08006-2151-4a0e-9c64-56c2db10cf81.jpg","seasons":[{"id":36944,"name":"تایتان‌ های نوجوان - فصل ۱"}]}

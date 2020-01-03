@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:16:27","id":5950,"name":"حیات وحش کانادا","image":"/Content/Upload/Images/0e234a7e-760d-4d16-bbfb-e9a3668b2d7c.jpg","seasons":[{"id":5954,"name":"حیات وحش کانادا"}]}
+{"lastUpdate":"2020-01-03 15:14:10","id":5950,"name":"حیات وحش کانادا","image":"/Content/Upload/Images/0e234a7e-760d-4d16-bbfb-e9a3668b2d7c.jpg","seasons":[{"id":5954,"name":"حیات وحش کانادا"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:15:57","id":25637,"name":"مبارز","image":"/Content/Upload/Images/65aeb11d-385b-4338-963a-7d48e603f99c.jpg","seasons":[{"id":25638,"name":"مبارز - فصل ۱"}]}
+{"lastUpdate":"2020-01-03 15:13:44","id":25637,"name":"مبارز","image":"/Content/Upload/Images/65aeb11d-385b-4338-963a-7d48e603f99c.jpg","seasons":[{"id":25638,"name":"مبارز - فصل ۱"}]}

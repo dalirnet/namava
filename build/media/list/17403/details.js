@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:16:16","id":17403,"name":"نخستین","image":"/Content/Upload/Images/d1ac9106-0d00-4618-aabe-8d6cdd40c5b9.jpg","seasons":[{"id":17407,"name":"نخستین - فصل ۱"}]}
+{"lastUpdate":"2020-01-03 15:14:01","id":17403,"name":"نخستین","image":"/Content/Upload/Images/d1ac9106-0d00-4618-aabe-8d6cdd40c5b9.jpg","seasons":[{"id":17407,"name":"نخستین - فصل ۱"}]}

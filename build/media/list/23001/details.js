@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:16:07","id":23001,"name":"قرآن","image":"/Content/Upload/Images/098a8833-a550-4546-b5b8-3758eb1d47b4.jpg","seasons":[{"id":23002,"name":"قرآن"}]}
+{"lastUpdate":"2020-01-03 15:13:52","id":23001,"name":"قرآن","image":"/Content/Upload/Images/098a8833-a550-4546-b5b8-3758eb1d47b4.jpg","seasons":[{"id":23002,"name":"قرآن"}]}

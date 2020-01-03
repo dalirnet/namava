@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:16:04","id":23213,"name":"هانا","image":"/Content/Upload/Images/18bb44d6-fde5-4dad-a1ff-882cf665ae4a.jpg","seasons":[{"id":23217,"name":"هانا - فصل ۱"}]}
+{"lastUpdate":"2020-01-03 15:13:49","id":23213,"name":"هانا","image":"/Content/Upload/Images/18bb44d6-fde5-4dad-a1ff-882cf665ae4a.jpg","seasons":[{"id":23217,"name":"هانا - فصل ۱"}]}

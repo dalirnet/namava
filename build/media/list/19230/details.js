@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:16:11","id":19230,"name":"اکتشاف جادوگران","image":"/Content/Upload/Images/30093f91-89de-4274-bb5e-0e183679e38a.jpg","seasons":[{"id":19240,"name":"اکتشاف جادوگران - فصل ۱"}]}
+{"lastUpdate":"2020-01-03 15:13:57","id":19230,"name":"اکتشاف جادوگران","image":"/Content/Upload/Images/30093f91-89de-4274-bb5e-0e183679e38a.jpg","seasons":[{"id":19240,"name":"اکتشاف جادوگران - فصل ۱"}]}

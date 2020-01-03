@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:15:27","id":13649,"name":"گیسوکمند","image":"/Content/Upload/Images/2d11041e-7f77-4ecc-8dee-6bb35e29c373.JPG","seasons":[{"id":13650,"name":"گیسوکمند - فصل ۱"},{"id":17988,"name":"گیسوکمند - فصل ۲"},{"id":36012,"name":"گیسوکمند - فصل ۳"}]}
+{"lastUpdate":"2020-01-03 15:13:11","id":13649,"name":"گیسوکمند","image":"/Content/Upload/Images/2d11041e-7f77-4ecc-8dee-6bb35e29c373.JPG","seasons":[{"id":13650,"name":"گیسوکمند - فصل ۱"},{"id":17988,"name":"گیسوکمند - فصل ۲"},{"id":36012,"name":"گیسوکمند - فصل ۳"}]}

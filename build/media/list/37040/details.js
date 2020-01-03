@@ -1,0 +1,1 @@
+{"lastUpdate":"2020-01-03 15:13:09","id":37040,"name":"چیپ و پوتیتو","image":"/Content/Upload/Images/60fe17a3-e9c6-418e-8f40-4d6bae58a39c.JPG","seasons":[{"id":37067,"name":"چیپ و پوتیتو - فصل ۱"}]}

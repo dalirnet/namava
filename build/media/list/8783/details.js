@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:16:25","id":8783,"name":"شهری که تنها من در آن گمشده‌ام","image":"/Content/Upload/Images/721d0fea-eb75-49de-a1af-996ac141cb15.jpg","seasons":[{"id":8784,"name":"شهری که تنها من در آن گمشده‌ام"}]}
+{"lastUpdate":"2020-01-03 15:14:08","id":8783,"name":"شهری که تنها من در آن گمشده‌ام","image":"/Content/Upload/Images/721d0fea-eb75-49de-a1af-996ac141cb15.jpg","seasons":[{"id":8784,"name":"شهری که تنها من در آن گمشده‌ام"}]}

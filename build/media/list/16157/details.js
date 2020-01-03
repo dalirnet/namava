@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:16:06","id":16157,"name":"فراتر از اتفاقات عجیب","image":"/Content/Upload/Images/80f22f9d-0bcd-47ba-b040-1af6b8d1339e.jpg","seasons":[{"id":16159,"name":"فراتر از اتفاقات عجیب"}]}
+{"lastUpdate":"2020-01-03 15:13:51","id":16157,"name":"فراتر از اتفاقات عجیب","image":"/Content/Upload/Images/80f22f9d-0bcd-47ba-b040-1af6b8d1339e.jpg","seasons":[{"id":16159,"name":"فراتر از اتفاقات عجیب"}]}

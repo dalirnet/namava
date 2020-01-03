@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:15:26","id":36787,"name":"قیامت: جنگ جهانی دوم","image":"/Content/Upload/Images/c2b27e37-2195-43cb-84a0-5873d4aeea21.JPG","seasons":[{"id":36798,"name":"قیامت: جنگ جهانی دوم - فصل ۱"}]}
+{"lastUpdate":"2020-01-03 15:13:10","id":36787,"name":"قیامت: جنگ جهانی دوم","image":"/Content/Upload/Images/c2b27e37-2195-43cb-84a0-5873d4aeea21.JPG","seasons":[{"id":36798,"name":"قیامت: جنگ جهانی دوم - فصل ۱"}]}

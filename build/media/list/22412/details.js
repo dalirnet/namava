@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:15:54","id":22412,"name":"سال‌های دور از خانه","image":"/Content/Upload/Images/d9d43c53-e88c-4de6-a34a-f8413172b3f6.jpg","seasons":[{"id":22413,"name":"سال‌های دور از خانه"}]}
+{"lastUpdate":"2020-01-03 15:13:40","id":22412,"name":"سال‌های دور از خانه","image":"/Content/Upload/Images/d9d43c53-e88c-4de6-a34a-f8413172b3f6.jpg","seasons":[{"id":22413,"name":"سال‌های دور از خانه"}]}

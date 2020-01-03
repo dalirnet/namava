@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:15:55","id":26000,"name":"ناکجا آباد موعود","image":"/Content/Upload/Images/191b882c-dbbf-4e17-ba69-f476bf9484f2.jpg","seasons":[{"id":26006,"name":"ناکجا آباد موعود - فصل ۱"}]}
+{"lastUpdate":"2020-01-03 15:13:43","id":26000,"name":"ناکجا آباد موعود","image":"/Content/Upload/Images/191b882c-dbbf-4e17-ba69-f476bf9484f2.jpg","seasons":[{"id":26006,"name":"ناکجا آباد موعود - فصل ۱"}]}

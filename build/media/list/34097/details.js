@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:15:30","id":34097,"name":"جوخه برادران","image":"/Content/Upload/Images/8e95106e-bd03-4997-ab32-d816c2c7e131.jpg","seasons":[{"id":34140,"name":"جوخه برادران - فصل ۱"}]}
+{"lastUpdate":"2020-01-03 15:13:16","id":34097,"name":"جوخه برادران","image":"/Content/Upload/Images/8e95106e-bd03-4997-ab32-d816c2c7e131.jpg","seasons":[{"id":34140,"name":"جوخه برادران - فصل ۱"}]}

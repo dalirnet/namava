@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:16:02","id":24551,"name":"کلاس مرگبار","image":"/Content/Upload/Images/e077ecb7-2185-47db-82f1-edf1b264eb2f.jpg","seasons":[{"id":24552,"name":"کلاس مرگبار - فصل ۱"}]}
+{"lastUpdate":"2020-01-03 15:13:48","id":24551,"name":"کلاس مرگبار","image":"/Content/Upload/Images/e077ecb7-2185-47db-82f1-edf1b264eb2f.jpg","seasons":[{"id":24552,"name":"کلاس مرگبار - فصل ۱"}]}

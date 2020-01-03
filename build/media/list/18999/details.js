@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:16:09","id":18999,"name":"پروژه کتاب آبی","image":"/Content/Upload/Images/f73ce26c-8566-4037-b646-12415796b39e.jpg","seasons":[{"id":19122,"name":"پروژه کتاب آبی - فصل اول"}]}
+{"lastUpdate":"2020-01-03 15:13:54","id":18999,"name":"پروژه کتاب آبی","image":"/Content/Upload/Images/f73ce26c-8566-4037-b646-12415796b39e.jpg","seasons":[{"id":19122,"name":"پروژه کتاب آبی - فصل اول"}]}

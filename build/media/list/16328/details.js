@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:16:17","id":16328,"name":"پاتریک ملروز","image":"/Content/Upload/Images/a72a5719-6879-4f1b-a60d-510c87e86ea3.jpg","seasons":[{"id":16334,"name":"پاتریک ملروز"}]}
+{"lastUpdate":"2020-01-03 15:14:02","id":16328,"name":"پاتریک ملروز","image":"/Content/Upload/Images/a72a5719-6879-4f1b-a60d-510c87e86ea3.jpg","seasons":[{"id":16334,"name":"پاتریک ملروز"}]}

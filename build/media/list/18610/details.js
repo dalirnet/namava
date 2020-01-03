@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:16:11","id":18610,"name":"تایتان‌ها","image":"/Content/Upload/Images/9291630e-2830-4a15-8995-c825f1e644d2.jpg","seasons":[{"id":18613,"name":"تایتان‌ها - فصل ۱"}]}
+{"lastUpdate":"2020-01-03 15:13:56","id":18610,"name":"تایتان‌ها","image":"/Content/Upload/Images/9291630e-2830-4a15-8995-c825f1e644d2.jpg","seasons":[{"id":18613,"name":"تایتان‌ها - فصل ۱"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:16:22","id":10953,"name":"سیاره آبی ۲","image":"/Content/Upload/Images/fedf48f0-b7b7-4719-8b71-6cd29f555831.jpg","seasons":[{"id":10955,"name":"سیاره آبی ۲"}]}
+{"lastUpdate":"2020-01-03 15:14:07","id":10953,"name":"سیاره آبی ۲","image":"/Content/Upload/Images/fedf48f0-b7b7-4719-8b71-6cd29f555831.jpg","seasons":[{"id":10955,"name":"سیاره آبی ۲"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:16:09","id":19628,"name":"داستان جنایی آمریکایی","image":"/Content/Upload/Images/36b6739e-8079-4f9b-86dd-63959cfdd190.jpg","seasons":[{"id":19629,"name":"داستان جنایی آمریکایی - فصل ۱"}]}
+{"lastUpdate":"2020-01-03 15:13:54","id":19628,"name":"داستان جنایی آمریکایی","image":"/Content/Upload/Images/36b6739e-8079-4f9b-86dd-63959cfdd190.jpg","seasons":[{"id":19629,"name":"داستان جنایی آمریکایی - فصل ۱"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-02 14:15:39","id":30846,"name":"داستان سبزیجات","image":"/Content/Upload/Images/36817c27-a468-4518-b4ae-ea9d8ce96499.jpg","seasons":[{"id":30847,"name":"داستان سبزیجات - فصل ۱"}]}
+{"lastUpdate":"2020-01-03 15:13:27","id":30846,"name":"داستان سبزیجات","image":"/Content/Upload/Images/36817c27-a468-4518-b4ae-ea9d8ce96499.jpg","seasons":[{"id":30847,"name":"داستان سبزیجات - فصل ۱"}]}
