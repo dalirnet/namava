@@ -1,19 +1,28 @@
-# Namava.ir
+### 🚀 Namava.ir
 
 [How Many Episodes Have I Watched?](https://dalirnet.github.io/namava/build/index.html)
 
 ![screenshot](https://raw.githubusercontent.com/dalirnet/namava/master/ui-desktop.png)
 
-# Media Bot
+
+### 🖐 Media Bot
 ```shell
 node bot/crawling.js --action media
 npm run media
 ```
 ![screenshot](https://raw.githubusercontent.com/dalirnet/namava/master/media-bot.png)
 
-# Episode Bot
+
+### ⏳ Episode Bot
 ```shell
 node bot/crawling.js --action episode
 npm run episode
 ```
 ![screenshot](https://raw.githubusercontent.com/dalirnet/namava/master/episode-bot.png)
+
+
+### 🎉 Features
+- **Daily Update:** Github version.
+- **Local Storage:** No login required.
+
+![screenshot](https://raw.githubusercontent.com/dalirnet/namava/master/banner.png)
