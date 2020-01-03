@@ -35,8 +35,8 @@ gulp.task('copy', function () {
 
 gulp.task('css', function () {
     return gulp.src([
-        'src/styles/*.css',
-    ])
+            'src/styles/*.css',
+        ])
         .pipe(concatCss('bundle.css'))
         .pipe(cleanCSS({
             level: {
@@ -60,8 +60,8 @@ gulp.task('js-debug', function () {
 
 gulp.task('js', function () {
     return gulp.src('src/scripts/index.js', {
-        sourcemaps: true
-    })
+            sourcemaps: false
+        })
         .pipe(browserify())
         .pipe(babel({
             presets: ['@babel/env'],
@@ -76,7 +76,7 @@ gulp.task('js', function () {
         }))
         .pipe(rename('bundle.js'))
         .pipe(gulp.dest('build/scripts', {
-            sourcemaps: true
+            sourcemaps: false
         }));
 });
 
@@ -88,12 +88,12 @@ gulp.task('img', function () {
 
 gulp.task('font', function () {
     return gulp.src([
-        'src/fonts/**/*.eot',
-        'src/fonts/**/*.svg',
-        'src/fonts/**/*.ttf',
-        'src/fonts/**/*.woff',
-        'src/fonts/**/*.woff2',
-    ])
+            'src/fonts/**/*.eot',
+            'src/fonts/**/*.svg',
+            'src/fonts/**/*.ttf',
+            'src/fonts/**/*.woff',
+            'src/fonts/**/*.woff2',
+        ])
         .pipe(gulp.dest('build/fonts'));
 });
 
