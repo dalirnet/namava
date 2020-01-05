@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-03 15:13:49","id":23645,"name":"باب المراد","image":"/Content/Upload/Images/2fce2c59-ff76-4eeb-b470-3ced3af5eeb4.jpg","seasons":[{"id":23646,"name":"باب المراد - فصل ۱"}]}
+{"lastUpdate":"2020-01-05 08:40:03","id":23645,"name":"باب المراد","image":"/Content/Upload/Images/2fce2c59-ff76-4eeb-b470-3ced3af5eeb4.jpg","seasons":[{"id":23646,"name":"باب المراد - فصل ۱"}]}

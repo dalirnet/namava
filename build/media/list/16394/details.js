@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-03 15:13:52","id":16394,"name":"اسلاگترا","image":"/Content/Upload/Images/e473ba5f-62c0-4139-aff2-d5bd7a5bea1e.jpg","seasons":[{"id":16397,"name":"اسلاگترا"}]}
+{"lastUpdate":"2020-01-05 08:40:07","id":16394,"name":"اسلاگترا","image":"/Content/Upload/Images/e473ba5f-62c0-4139-aff2-d5bd7a5bea1e.jpg","seasons":[{"id":16397,"name":"اسلاگترا"}]}

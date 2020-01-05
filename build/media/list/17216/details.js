@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-03 15:14:02","id":17216,"name":"سام آتش‌نشان","image":"/Content/Upload/Images/8b734556-6044-43d6-86e2-290f9f457fb7.jpg","seasons":[{"id":17217,"name":"سام آتش‌نشان"}]}
+{"lastUpdate":"2020-01-05 08:40:16","id":17216,"name":"سام آتش‌نشان","image":"/Content/Upload/Images/8b734556-6044-43d6-86e2-290f9f457fb7.jpg","seasons":[{"id":17217,"name":"سام آتش‌نشان"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-03 15:13:11","id":36058,"name":"ویچر","image":"/Content/Upload/Images/f8e36e27-c6ea-4695-acbd-03fdf19a70b3.jpg","seasons":[{"id":36086,"name":"ویچر - فصل ۱"}]}
+{"lastUpdate":"2020-01-05 08:39:26","id":36058,"name":"ویچر","image":"/Content/Upload/Images/f8e36e27-c6ea-4695-acbd-03fdf19a70b3.jpg","seasons":[{"id":36086,"name":"ویچر - فصل ۱"}]}

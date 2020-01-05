@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-03 15:13:54","id":22132,"name":"بیوه","image":"/Content/Upload/Images/54c615e2-02ca-411a-8dd9-90f8e1ac6f31.jpg","seasons":[{"id":22133,"name":"بیوه - فصل ۱"}]}
+{"lastUpdate":"2020-01-05 08:40:08","id":22132,"name":"بیوه","image":"/Content/Upload/Images/54c615e2-02ca-411a-8dd9-90f8e1ac6f31.jpg","seasons":[{"id":22133,"name":"بیوه - فصل ۱"}]}

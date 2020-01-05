@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-03 15:13:44","id":25710,"name":"آمفیبیا","image":"/Content/Upload/Images/08d4c0ed-20de-4d45-8b4b-08e113a60b85.jpg","seasons":[{"id":25711,"name":"آمفیبیا - فصل ۱"}]}
+{"lastUpdate":"2020-01-05 08:39:57","id":25710,"name":"آمفیبیا","image":"/Content/Upload/Images/08d4c0ed-20de-4d45-8b4b-08e113a60b85.jpg","seasons":[{"id":25711,"name":"آمفیبیا - فصل ۱"}]}

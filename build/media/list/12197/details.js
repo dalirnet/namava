@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-03 15:14:07","id":12197,"name":"بن ۱۰ ریبوت","image":"/Content/Upload/Images/f15f9b9d-10ff-4de5-911a-99342b4db8ee.jpg","seasons":[{"id":12203,"name":"بن ۱۰ ریبوت - فصل ۱"}]}
+{"lastUpdate":"2020-01-05 08:40:22","id":12197,"name":"بن ۱۰ ریبوت","image":"/Content/Upload/Images/f15f9b9d-10ff-4de5-911a-99342b4db8ee.jpg","seasons":[{"id":12203,"name":"بن ۱۰ ریبوت - فصل ۱"}]}

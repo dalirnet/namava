@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-03 15:14:05","id":10601,"name":"شکارچی ذهن","image":"/Content/Upload/Images/fceae2af-eb32-4ca3-ab71-6c2156b83c7d.jpg","seasons":[{"id":10602,"name":"شکارچی ذهن - فصل ۱"},{"id":27358,"name":"شکارچی ذهن - فصل ۲"}]}
+{"lastUpdate":"2020-01-05 08:40:19","id":10601,"name":"شکارچی ذهن","image":"/Content/Upload/Images/fceae2af-eb32-4ca3-ab71-6c2156b83c7d.jpg","seasons":[{"id":10602,"name":"شکارچی ذهن - فصل ۱"},{"id":27358,"name":"شکارچی ذهن - فصل ۲"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-03 15:14:09","id":7671,"name":"توت فرنگی","image":"/Content/Upload/Images/c78ef6d7-fa9b-42ed-8067-9e30055c37c3.jpg","seasons":[{"id":7672,"name":"توت فرنگی"}]}
+{"lastUpdate":"2020-01-05 08:40:24","id":7671,"name":"توت فرنگی","image":"/Content/Upload/Images/c78ef6d7-fa9b-42ed-8067-9e30055c37c3.jpg","seasons":[{"id":7672,"name":"توت فرنگی"}]}

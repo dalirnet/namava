@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-03 15:13:34","id":27183,"name":"مانکن (ویژه ناشنوایان)","image":"/Content/Upload/Images/bf75a3e9-0456-4b5c-a7a5-405d9989a045.jpg","seasons":[{"id":27184,"name":"مانکن (ویژه ناشنوایان) - فصل ۱"}]}
+{"lastUpdate":"2020-01-05 08:39:50","id":27183,"name":"مانکن (ویژه ناشنوایان)","image":"/Content/Upload/Images/bf75a3e9-0456-4b5c-a7a5-405d9989a045.jpg","seasons":[{"id":27184,"name":"مانکن (ویژه ناشنوایان) - فصل ۱"}]}

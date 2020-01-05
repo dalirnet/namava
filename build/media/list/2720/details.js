@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-03 15:14:10","id":2720,"name":"ماجراهای تن تن  و میلو","image":"/Content/Upload/Images/ec1cb5cc-36bc-499f-a14b-75c04f28750b.jpg","seasons":[{"id":3842,"name":"ماجرا های تن تن  و میلو"}]}
+{"lastUpdate":"2020-01-05 08:40:26","id":2720,"name":"ماجراهای تن تن  و میلو","image":"/Content/Upload/Images/ec1cb5cc-36bc-499f-a14b-75c04f28750b.jpg","seasons":[{"id":3842,"name":"ماجرا های تن تن  و میلو"}]}

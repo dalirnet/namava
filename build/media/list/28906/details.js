@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-03 15:13:32","id":28906,"name":"بنیان گذاران","image":"/Content/Upload/Images/4b223a8b-c6de-4bbe-b014-f348ed215e6a.jpg","seasons":[{"id":28926,"name":"بنیان گذاران - فصل ۱"}]}
+{"lastUpdate":"2020-01-05 08:39:47","id":28906,"name":"بنیان گذاران","image":"/Content/Upload/Images/4b223a8b-c6de-4bbe-b014-f348ed215e6a.jpg","seasons":[{"id":28926,"name":"بنیان گذاران - فصل ۱"}]}

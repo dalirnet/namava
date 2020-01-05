@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-03 15:13:49","id":23447,"name":"اسلحه مرگبار","image":"/Content/Upload/Images/15ebef87-ad95-4681-b3ac-8ca896abe0ac.jpg","seasons":[{"id":23452,"name":"اسلحه مرگبار - فصل ۱"},{"id":27251,"name":"اسلحه مرگبار - فصل ۲"},{"id":30005,"name":"اسلحه مرگبار - فصل ۳"}]}
+{"lastUpdate":"2020-01-05 08:40:03","id":23447,"name":"اسلحه مرگبار","image":"/Content/Upload/Images/15ebef87-ad95-4681-b3ac-8ca896abe0ac.jpg","seasons":[{"id":23452,"name":"اسلحه مرگبار - فصل ۱"},{"id":27251,"name":"اسلحه مرگبار - فصل ۲"},{"id":30005,"name":"اسلحه مرگبار - فصل ۳"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-03 15:13:18","id":33977,"name":"با نی نی","image":"/Content/Upload/Images/faf6db23-f95d-4817-92f6-f5b171db84f4.jpg","seasons":[{"id":33983,"name":"با نی نی - فصل ۱"}]}
+{"lastUpdate":"2020-01-05 08:39:35","id":33977,"name":"با نی نی","image":"/Content/Upload/Images/faf6db23-f95d-4817-92f6-f5b171db84f4.jpg","seasons":[{"id":33983,"name":"با نی نی - فصل ۱"}]}
