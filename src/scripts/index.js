@@ -113,10 +113,10 @@ $(document).ready(() => {
             }
         },
         addMedia(id) {
-            $.getJSON("media/list/" + id + "/details.js?" + Math.floor((Date.now() / 1000) / (86400 / 4)), (mediaData) => {
+            $.getJSON("media/list/" + id + "/details.js?" + Math.floor(Date.now() / 1000), (mediaData) => {
                 let doRender = [];
                 $.each(mediaData.seasons, (key, season) => {
-                    $.getJSON("media/list/" + id + "/" + season.id + ".js?" + Math.floor((Date.now() / 1000) / (86400 / 4)), (seasonData) => {
+                    $.getJSON("media/list/" + id + "/" + season.id + ".js?" + Math.floor(Date.now() / 1000), (seasonData) => {
                         action.addSeasson(id, seasonData);
                         doRender.push(true);
                         if (doRender.length == mediaData.seasons.length) {
@@ -172,7 +172,7 @@ $(document).ready(() => {
             });
         }
     });
-    $.getJSON("media/list.js?" + Math.floor((Date.now() / 1000) / (86400 / 4)), (data) => {
+    $.getJSON("media/list.js?" + Math.floor(Date.now() / 1000), (data) => {
         $.each(data.list, (key, val) => {
             action.data[val.id] = val;
         });
