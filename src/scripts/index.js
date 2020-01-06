@@ -62,6 +62,7 @@ $(document).ready(() => {
                             return {
                                 id: season.id,
                                 name: season.name,
+                                lastUpdate: (typeof (season.lastUpdate) != "undefined" ? action.number(season.lastUpdate) : ""),
                                 episodes: $.map(season.episodes, (episode) => {
                                     allEpisodes++;
                                     return {
@@ -134,6 +135,7 @@ $(document).ready(() => {
                 current["seasons"][seasonData.id] = {
                     id: seasonData.id,
                     name: seasonData.name,
+                    lastUpdate: seasonData.lastUpdate,
                     episodes: $.map(seasonData.episodes, (episode) => {
                         return {
                             id: episode.id,
