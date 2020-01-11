@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-05 08:40:17","id":7237,"name":"باب اسفنجی","image":"/Content/Upload/Images/2c30cd23-7e4e-46dd-bbdb-b89a4a19bbf8.jpg","seasons":[{"id":7238,"name":"باب اسفنجی"}]}
+{"lastUpdate":"2020-01-11 17:51:08","id":7237,"name":"باب اسفنجی","image":"/Content/Upload/Images/2c30cd23-7e4e-46dd-bbdb-b89a4a19bbf8.jpg","seasons":[{"id":7238,"name":"باب اسفنجی"}]}

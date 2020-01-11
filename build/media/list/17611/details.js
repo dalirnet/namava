@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-05 08:40:15","id":17611,"name":"بی‌باک","image":"/Content/Upload/Images/11140611-ad8f-4c3e-b04d-b3fac0829864.jpg","seasons":[{"id":17614,"name":"بی‌باک - فصل ۱"},{"id":17702,"name":"بی‌باک - فصل ۲"},{"id":17615,"name":"بی‌باک - فصل ۳"}]}
+{"lastUpdate":"2020-01-11 17:51:07","id":17611,"name":"بی‌باک","image":"/Content/Upload/Images/11140611-ad8f-4c3e-b04d-b3fac0829864.jpg","seasons":[{"id":17614,"name":"بی‌باک - فصل ۱"},{"id":17702,"name":"بی‌باک - فصل ۲"},{"id":17615,"name":"بی‌باک - فصل ۳"}]}

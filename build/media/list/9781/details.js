@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-05 08:40:19","id":9781,"name":"وست ورلد","image":"/Content/Upload/Images/c2038abf-5f05-4afe-8215-a6ecf936dd95.jpg","seasons":[{"id":14275,"name":"وست ورلد - فصل ۲"},{"id":9782,"name":"وست ورلد - فصل ۱"}]}
+{"lastUpdate":"2020-01-11 17:51:09","id":9781,"name":"وست ورلد","image":"/Content/Upload/Images/c2038abf-5f05-4afe-8215-a6ecf936dd95.jpg","seasons":[{"id":14275,"name":"وست ورلد - فصل ۲"},{"id":9782,"name":"وست ورلد - فصل ۱"}]}

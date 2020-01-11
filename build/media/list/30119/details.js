@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-05 08:39:43","id":30119,"name":"تازه وارد","image":"/Content/Upload/Images/cb4998b7-1afa-4044-ba42-3484f0b61eba.jpg","seasons":[{"id":30123,"name":"تازه وارد - فصل ۱"}]}
+{"lastUpdate":"2020-01-11 17:50:57","id":30119,"name":"تازه وارد","image":"/Content/Upload/Images/cb4998b7-1afa-4044-ba42-3484f0b61eba.jpg","seasons":[{"id":30123,"name":"تازه وارد - فصل ۱"}]}

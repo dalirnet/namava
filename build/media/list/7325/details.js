@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-05 08:40:25","id":7325,"name":"سیاره زمین ۲","image":"/Content/Upload/Images/dd38c0a7-90ae-4712-b0f6-cae1eddcbf48.jpg","seasons":[{"id":7326,"name":"سیاره زمین ۲"}]}
+{"lastUpdate":"2020-01-11 17:51:12","id":7325,"name":"سیاره زمین ۲","image":"/Content/Upload/Images/dd38c0a7-90ae-4712-b0f6-cae1eddcbf48.jpg","seasons":[{"id":7326,"name":"سیاره زمین ۲"}]}

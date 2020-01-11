@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-05 08:40:11","id":18884,"name":"خاطرات الحمرا","image":"/Content/Upload/Images/7e4a589e-6816-46c5-914e-71ab9a7a5b5b.jpg","seasons":[{"id":18885,"name":"خاطرات الحمرا - فصل ۱"}]}
+{"lastUpdate":"2020-01-11 17:51:07","id":18884,"name":"خاطرات الحمرا","image":"/Content/Upload/Images/7e4a589e-6816-46c5-914e-71ab9a7a5b5b.jpg","seasons":[{"id":18885,"name":"خاطرات الحمرا - فصل ۱"}]}

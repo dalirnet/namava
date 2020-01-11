@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-05 08:39:47","id":28641,"name":"دره مومین","image":"/Content/Upload/Images/1e7bc5f0-e23b-4523-bc33-ac0a67663b4b.jpg","seasons":[{"id":28649,"name":"دره مومین  - فصل ۱"}]}
+{"lastUpdate":"2020-01-11 17:50:58","id":28641,"name":"دره مومین","image":"/Content/Upload/Images/1e7bc5f0-e23b-4523-bc33-ac0a67663b4b.jpg","seasons":[{"id":28649,"name":"دره مومین  - فصل ۱"}]}

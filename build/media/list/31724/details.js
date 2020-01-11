@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-05 08:39:36","id":31724,"name":"گلیچ","image":"/Content/Upload/Images/48612953-cb98-42f7-8d58-47505b370d5f.jpg","seasons":[{"id":31752,"name":"گلیچ - فصل ۱"}]}
+{"lastUpdate":"2020-01-11 17:50:55","id":31724,"name":"گلیچ","image":"/Content/Upload/Images/48612953-cb98-42f7-8d58-47505b370d5f.jpg","seasons":[{"id":31752,"name":"گلیچ - فصل ۱"}]}

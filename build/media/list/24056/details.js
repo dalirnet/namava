@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-05 08:39:56","id":24056,"name":"گاندو","image":"/Content/Upload/Images/65d67d2d-021e-484d-a9db-a91ddb3176cf.jpg","seasons":[{"id":24057,"name":"گاندو - فصل ۱"}]}
+{"lastUpdate":"2020-01-11 17:51:00","id":24056,"name":"گاندو","image":"/Content/Upload/Images/65d67d2d-021e-484d-a9db-a91ddb3176cf.jpg","seasons":[{"id":24057,"name":"گاندو - فصل ۱"}]}

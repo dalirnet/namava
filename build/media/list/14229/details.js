@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-05 08:40:20","id":14229,"name":"ترور","image":"/Content/Upload/Images/d61dcb85-8e10-4329-99c9-9b5a4b568680.JPG","seasons":[{"id":14230,"name":"ترور - فصل ۱"},{"id":29837,"name":"ترور - فصل ۲"}]}
+{"lastUpdate":"2020-01-11 17:51:10","id":14229,"name":"ترور","image":"/Content/Upload/Images/d61dcb85-8e10-4329-99c9-9b5a4b568680.JPG","seasons":[{"id":14230,"name":"ترور - فصل ۱"},{"id":29837,"name":"ترور - فصل ۲"}]}

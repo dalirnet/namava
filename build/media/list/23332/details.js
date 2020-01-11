@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-05 08:39:53","id":23332,"name":"تبصره ۲۲","image":"/Content/Upload/Images/346a3645-2325-43ad-8691-8e9da506891a.JPG","seasons":[{"id":23333,"name":"تبصره ۲۲ - فصل ۱"}]}
+{"lastUpdate":"2020-01-11 17:50:59","id":23332,"name":"تبصره ۲۲","image":"/Content/Upload/Images/346a3645-2325-43ad-8691-8e9da506891a.JPG","seasons":[{"id":23333,"name":"تبصره ۲۲ - فصل ۱"}]}

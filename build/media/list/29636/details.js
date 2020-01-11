@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-05 08:39:45","id":29636,"name":"آلوین و سنجاب ها","image":"/Content/Upload/Images/54ee2a65-0d8b-4a93-a04a-c2106c142535.JPG","seasons":[{"id":29637,"name":"آلوین و سنجاب ها - فصل ۱"}]}
+{"lastUpdate":"2020-01-11 17:50:57","id":29636,"name":"آلوین و سنجاب ها","image":"/Content/Upload/Images/54ee2a65-0d8b-4a93-a04a-c2106c142535.JPG","seasons":[{"id":29637,"name":"آلوین و سنجاب ها - فصل ۱"}]}

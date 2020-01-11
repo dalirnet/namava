@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-05 08:39:38","id":31164,"name":"تام سخنگو و دوستان","image":"/Content/Upload/Images/dc91b91c-3d77-4dcf-a260-f6154036f77b.jpg","seasons":[{"id":31180,"name":"تام سخنگو و دوستان - فصل ۱"}]}
+{"lastUpdate":"2020-01-11 17:50:55","id":31164,"name":"تام سخنگو و دوستان","image":"/Content/Upload/Images/dc91b91c-3d77-4dcf-a260-f6154036f77b.jpg","seasons":[{"id":31180,"name":"تام سخنگو و دوستان - فصل ۱"}]}
