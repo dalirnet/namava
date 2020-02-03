@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-11 17:50:59","id":19813,"name":"محافظ","image":"/Content/Upload/Images/4e727246-6616-4913-97a8-3971259bacf4.jpg","seasons":[{"id":19814,"name":"محافظ - فصل ۱"},{"id":26536,"name":"محافظ - فصل ۲"}]}
+{"lastUpdate":"2020-02-03 15:23:18","id":19813,"name":"محافظ","image":"/Content/Upload/Images/4e727246-6616-4913-97a8-3971259bacf4.jpg","seasons":[{"id":19814,"name":"محافظ - فصل ۱"},{"id":26536,"name":"محافظ - فصل ۲"}]}

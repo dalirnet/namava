@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-11 17:50:56","id":30008,"name":"محله کارناوال","image":"/Content/Upload/Images/08161ffa-a17c-4d76-9c1c-8780d4a041ac.JPG","seasons":[{"id":30009,"name":"محله کارناوال - فصل ۱"}]}
+{"lastUpdate":"2020-02-03 15:23:13","id":30008,"name":"محله کارناوال","image":"/Content/Upload/Images/08161ffa-a17c-4d76-9c1c-8780d4a041ac.JPG","seasons":[{"id":30009,"name":"محله کارناوال - فصل ۱"}]}

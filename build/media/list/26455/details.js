@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-11 17:51:00","id":26455,"name":"ریلاکوما و کائورو","image":"/Content/Upload/Images/1b147871-1478-4448-9df6-9044f492da7f.jpg","seasons":[{"id":26457,"name":"ریلاکوما و کائورو - فصل ۱"}]}
+{"lastUpdate":"2020-02-03 15:23:27","id":26455,"name":"ریلاکوما و کائورو","image":"/Content/Upload/Images/1b147871-1478-4448-9df6-9044f492da7f.jpg","seasons":[{"id":26457,"name":"ریلاکوما و کائورو - فصل ۱"}]}

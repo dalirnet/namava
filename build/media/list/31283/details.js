@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-11 17:50:55","id":31283,"name":"کندویی ها","image":"/Content/Upload/Images/b48eb88b-dd7a-4bce-b0d3-0b48810705d9.jpg","seasons":[{"id":31284,"name":"کندویی ها - فصل ۱"}]}
+{"lastUpdate":"2020-02-03 15:23:03","id":31283,"name":"کندویی ها","image":"/Content/Upload/Images/b48eb88b-dd7a-4bce-b0d3-0b48810705d9.jpg","seasons":[{"id":31284,"name":"کندویی ها - فصل ۱"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-11 17:50:56","id":30499,"name":"نیروی اهریمنی او","image":"/Content/Upload/Images/9983c738-9452-4110-b889-a877d8229e8d.jpg","seasons":[{"id":30506,"name":"نیروی اهریمنی او - فصل ۱"}]}
+{"lastUpdate":"2020-02-03 15:23:11","id":30499,"name":"نیروی اهریمنی او","image":"/Content/Upload/Images/9983c738-9452-4110-b889-a877d8229e8d.jpg","seasons":[{"id":30506,"name":"نیروی اهریمنی او - فصل ۱"}]}

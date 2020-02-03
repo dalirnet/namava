@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-11 17:50:54","id":33532,"name":"گناهکار","image":"/Content/Upload/Images/0e78df3c-0e99-4734-98fc-07551047c6b9.jpg","seasons":[{"id":33544,"name":"گناهکار - فصل ۱"}]}
+{"lastUpdate":"2020-02-03 15:23:02","id":33532,"name":"گناهکار","image":"/Content/Upload/Images/0e78df3c-0e99-4734-98fc-07551047c6b9.jpg","seasons":[{"id":33544,"name":"گناهکار - فصل ۱"}]}

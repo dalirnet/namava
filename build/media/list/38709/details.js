@@ -1,0 +1,1 @@
+{"lastUpdate":"2020-02-03 15:22:52","id":38709,"name":"شرور","image":"/Content/Upload/Images/2dcf906b-90be-4949-ab86-f477ae3410c5.JPG","seasons":[{"id":38722,"name":"شرور - فصل ۱"}]}

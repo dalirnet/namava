@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-11 17:51:04","id":20295,"name":"نارکوها: مکزیک","image":"/Content/Upload/Images/4f98093d-6bac-4117-8be8-2dbeda958fd2.jpg","seasons":[{"id":20296,"name":"نارکوها: مکزیک - فصل ۱"}]}
+{"lastUpdate":"2020-02-03 15:23:36","id":20295,"name":"نارکوها: مکزیک","image":"/Content/Upload/Images/4f98093d-6bac-4117-8be8-2dbeda958fd2.jpg","seasons":[{"id":20296,"name":"نارکوها: مکزیک - فصل ۱"}]}

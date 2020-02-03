@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-11 17:51:00","id":26147,"name":"کشتن ایو","image":"/Content/Upload/Images/8e29df88-2bb6-4a66-9090-9e11b46b46cf.jpg","seasons":[{"id":26148,"name":"کشتن ایو - فصل ۱"}]}
+{"lastUpdate":"2020-02-03 15:23:27","id":26147,"name":"کشتن ایو","image":"/Content/Upload/Images/8e29df88-2bb6-4a66-9090-9e11b46b46cf.jpg","seasons":[{"id":26148,"name":"کشتن ایو - فصل ۱"}]}

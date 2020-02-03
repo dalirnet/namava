@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-11 17:51:10","id":14242,"name":"عصر ما","image":"/Content/Upload/Images/09164d48-3059-45b8-a814-4adf0cf30864.jpg","seasons":[{"id":14243,"name":"عصر ما - فصل ۱"}]}
+{"lastUpdate":"2020-02-03 15:23:46","id":14242,"name":"عصر ما","image":"/Content/Upload/Images/09164d48-3059-45b8-a814-4adf0cf30864.jpg","seasons":[{"id":14243,"name":"عصر ما - فصل ۱"}]}

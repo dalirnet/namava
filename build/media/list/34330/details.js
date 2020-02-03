@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-11 17:50:54","id":34330,"name":"صخره پافین ها","image":"/Content/Upload/Images/28c377cf-716c-4db0-a7b8-8fce6f68dcf4.jpg","seasons":[{"id":34345,"name":"صخره پافین ها - فصل ۱"}]}
+{"lastUpdate":"2020-02-03 15:23:00","id":34330,"name":"صخره پافین ها","image":"/Content/Upload/Images/0de533d5-99f2-4e36-b585-9926bcb581d2.JPG","seasons":[{"id":34345,"name":"صخره پافین ها - فصل ۱"},{"id":38024,"name":"صخره پافین ها - فصل ۲"}]}

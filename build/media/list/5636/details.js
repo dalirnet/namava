@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-11 17:51:12","id":5636,"name":"آفریقا","image":"/Content/Upload/Images/a2350be5-20ed-4a08-bcdf-86aad013d027.jpeg","seasons":[{"id":5637,"name":"آفریقا"}]}
+{"lastUpdate":"2020-02-03 15:23:50","id":5636,"name":"آفریقا","image":"/Content/Upload/Images/a2350be5-20ed-4a08-bcdf-86aad013d027.jpeg","seasons":[{"id":5637,"name":"آفریقا"}]}

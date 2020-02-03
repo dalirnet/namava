@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-11 17:50:52","id":36815,"name":"مزرعه","image":"/Content/Upload/Images/7c409f81-bb2e-4a31-8b06-fda14c2fe5ab.jpg","seasons":[{"id":36820,"name":"مزرعه - فصل ۱"}]}
+{"lastUpdate":"2020-02-03 15:22:55","id":36815,"name":"مزرعه","image":"/Content/Upload/Images/7c409f81-bb2e-4a31-8b06-fda14c2fe5ab.jpg","seasons":[{"id":36820,"name":"مزرعه - فصل ۱"}]}

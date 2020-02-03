@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-11 17:50:57","id":29493,"name":"۱۲ ساله تا ابد","image":"/Content/Upload/Images/d1208cac-3b77-4c34-a738-0a5374f581dd.jpg","seasons":[{"id":29511,"name":"۱۲ ساله تا ابد - فصل ۱"}]}
+{"lastUpdate":"2020-02-03 15:23:14","id":29493,"name":"۱۲ ساله تا ابد","image":"/Content/Upload/Images/d1208cac-3b77-4c34-a738-0a5374f581dd.jpg","seasons":[{"id":29511,"name":"۱۲ ساله تا ابد - فصل ۱"}]}

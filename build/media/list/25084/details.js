@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-11 17:51:01","id":25084,"name":"سرآشپز","image":"/Content/Upload/Images/df033d06-ad23-49d1-a8d5-2904cdf5991c.jpg","seasons":[{"id":25086,"name":"سرآشپز - فصل ۱"},{"id":35028,"name":"سرآشپز - فصل ۲"}]}
+{"lastUpdate":"2020-02-03 15:23:31","id":25084,"name":"سرآشپز","image":"/Content/Upload/Images/df033d06-ad23-49d1-a8d5-2904cdf5991c.jpg","seasons":[{"id":25086,"name":"سرآشپز - فصل ۱"},{"id":35028,"name":"سرآشپز - فصل ۲"}]}

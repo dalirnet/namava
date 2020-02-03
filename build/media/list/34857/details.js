@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-11 17:50:53","id":34857,"name":"تو","image":"/Content/Upload/Images/1f268cd5-eb4e-437a-8d9e-ec7f765ef15f.JPG","seasons":[{"id":34859,"name":"تو - فصل ۱"}]}
+{"lastUpdate":"2020-02-03 15:22:59","id":34857,"name":"تو","image":"/Content/Upload/Images/1f268cd5-eb4e-437a-8d9e-ec7f765ef15f.JPG","seasons":[{"id":34859,"name":"تو - فصل ۱"}]}

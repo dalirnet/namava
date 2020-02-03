@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-11 17:50:52","id":35685,"name":"ما خرس های پچول‌","image":"/Content/Upload/Images/ac93eb2e-3a54-4967-ba56-c692771e3d37.jpg","seasons":[{"id":35693,"name":"ما خرس های پچول - فصل ۱"}]}
+{"lastUpdate":"2020-02-03 15:22:58","id":35685,"name":"ما خرس های پچول‌","image":"/Content/Upload/Images/211a18c3-95bf-4d61-ba36-37f6b19f4b32.JPG","seasons":[{"id":35693,"name":"ما خرس های پچول - فصل ۱"},{"id":38957,"name":"ما خرس های پچول - فصل ۲"}]}

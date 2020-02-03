@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-11 17:50:56","id":30183,"name":"گابلین","image":"/Content/Upload/Images/c080650d-e7a6-4e38-a772-b61b04961a6e.JPG","seasons":[{"id":30193,"name":"گابلین - فصل ۱"}]}
+{"lastUpdate":"2020-02-03 15:23:13","id":30183,"name":"گابلین","image":"/Content/Upload/Images/c080650d-e7a6-4e38-a772-b61b04961a6e.JPG","seasons":[{"id":30193,"name":"گابلین - فصل ۱"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-11 17:51:08","id":17203,"name":"باب معمار","image":"/Content/Upload/Images/40d3c423-d387-40ea-8d85-ef520ac8993d.jpg","seasons":[{"id":17208,"name":"باب معمار"}]}
+{"lastUpdate":"2020-02-03 15:23:44","id":17203,"name":"باب معمار","image":"/Content/Upload/Images/40d3c423-d387-40ea-8d85-ef520ac8993d.jpg","seasons":[{"id":17208,"name":"باب معمار"}]}

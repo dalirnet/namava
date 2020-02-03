@@ -1,0 +1,1 @@
+{"lastUpdate":"2020-02-03 15:22:51","id":39215,"name":"فرینج","image":"/Content/Upload/Images/2f8247d8-9ad5-42f3-bda0-d0e8e698344d.JPG","seasons":[{"id":39218,"name":"فرینج - فصل ۱"}]}

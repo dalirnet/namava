@@ -1,0 +1,1 @@
+{"lastUpdate":"2020-02-03 15:22:51","id":38896,"name":"فورکی سوال می ‌کنه","image":"/Content/Upload/Images/6672dfe5-d76f-4700-8f8b-8a48be53560d.JPG","seasons":[{"id":38905,"name":"فورکی سوال می ‌کنه - فصل ۱"}]}

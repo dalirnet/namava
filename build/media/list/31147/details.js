@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-11 17:50:55","id":31147,"name":"کرگدن (ویژه ناشنوایان)","image":"/Content/Upload/Images/e4946f7c-30ff-4240-8d25-8a681a835e8a.jpg","seasons":[{"id":31157,"name":"کرگدن (ویژه ناشنوایان) - فصل ۱"}]}
+{"lastUpdate":"2020-02-03 15:23:04","id":31147,"name":"کرگدن (ویژه ناشنوایان)","image":"/Content/Upload/Images/e4946f7c-30ff-4240-8d25-8a681a835e8a.jpg","seasons":[{"id":31157,"name":"کرگدن (ویژه ناشنوایان) - فصل ۱"}]}

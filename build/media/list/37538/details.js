@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-01-11 17:50:51","id":37538,"name":"کونگ: پادشاه میمون ها","image":"/Content/Upload/Images/960e7dd5-16ca-48f6-93c8-5da6df22085a.JPG","seasons":[{"id":37547,"name":"کونگ: پادشاه میمون ها - فصل ۱"}]}
+{"lastUpdate":"2020-02-03 15:22:53","id":37538,"name":"کونگ: پادشاه میمون ها","image":"/Content/Upload/Images/960e7dd5-16ca-48f6-93c8-5da6df22085a.JPG","seasons":[{"id":37547,"name":"کونگ: پادشاه میمون ها - فصل ۱"}]}
