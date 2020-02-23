@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-03 15:23:26","id":26696,"name":"نگهبانان کهکشان","image":"/Content/Upload/Images/7ebb3a6d-1ab5-46b7-8107-ea5df22cf398.jpg","seasons":[{"id":26697,"name":"نگهبانان کهکشان - فصل ۱"}]}
+{"lastUpdate":"2020-02-23 08:18:45","id":26696,"name":"نگهبانان کهکشان","image":"/Content/Upload/Images/319d9a36-6635-489c-9b21-002a1fa749f9.JPG","seasons":[{"id":26697,"name":"نگهبانان کهکشان - فصل ۱"},{"id":41149,"name":"نگهبانان کهکشان - فصل ۲"}]}

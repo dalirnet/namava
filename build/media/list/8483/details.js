@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-03 15:23:49","id":8483,"name":"۱۱.۲۲.۶۳","image":"/Content/Upload/Images/3356c72b-0405-486b-b4d9-49457215531b.jpg","seasons":[{"id":8485,"name":"11.22.63"}]}
+{"lastUpdate":"2020-02-23 08:19:12","id":8483,"name":"۱۱.۲۲.۶۳","image":"/Content/Upload/Images/3356c72b-0405-486b-b4d9-49457215531b.jpg","seasons":[{"id":8485,"name":"11.22.63"}]}

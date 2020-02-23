@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-03 15:22:54","id":37414,"name":"لوتر","image":"/Content/Upload/Images/d6e1736b-78c7-4781-baa3-e5014ee2691b.JPG","seasons":[{"id":37481,"name":"لوتر - فصل ۱"}]}
+{"lastUpdate":"2020-02-23 08:18:06","id":37414,"name":"لوتر","image":"/Content/Upload/Images/d6e1736b-78c7-4781-baa3-e5014ee2691b.JPG","seasons":[{"id":37481,"name":"لوتر - فصل ۱"}]}

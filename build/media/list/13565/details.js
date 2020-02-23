@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-03 15:23:35","id":13565,"name":"همتا","image":"/Content/Upload/Images/a3b5bbb0-3c50-4bb5-9368-9d7c03a7fadb.jpg","seasons":[{"id":13580,"name":"همتا - فصل ۱"},{"id":22226,"name":"همتا - فصل ۲"}]}
+{"lastUpdate":"2020-02-23 08:18:55","id":13565,"name":"همتا","image":"/Content/Upload/Images/a3b5bbb0-3c50-4bb5-9368-9d7c03a7fadb.jpg","seasons":[{"id":13580,"name":"همتا - فصل ۱"},{"id":22226,"name":"همتا - فصل ۲"}]}

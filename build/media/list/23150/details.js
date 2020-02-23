@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-03 15:23:34","id":23150,"name":"کله گنده‌ ها","image":"/Content/Upload/Images/607c22e3-7c82-49cf-be83-b91d76e19474.jpg","seasons":[{"id":23151,"name":"کله گنده‌ ها - فصل ۱"}]}
+{"lastUpdate":"2020-02-23 08:18:52","id":23150,"name":"کله گنده‌ ها","image":"/Content/Upload/Images/607c22e3-7c82-49cf-be83-b91d76e19474.jpg","seasons":[{"id":23151,"name":"کله گنده‌ ها - فصل ۱"}]}

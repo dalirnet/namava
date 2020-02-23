@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-03 15:22:51","id":38768,"name":"قهرمانان","image":"/Content/Upload/Images/f11b0b79-9d37-4441-b69c-c7a01d71df16.JPG","seasons":[{"id":38772,"name":"قهرمانان - فصل ۱"},{"id":38940,"name":"قهرمانان - فصل ۲"}]}
+{"lastUpdate":"2020-02-23 08:18:04","id":38768,"name":"قهرمانان","image":"/Content/Upload/Images/f11b0b79-9d37-4441-b69c-c7a01d71df16.JPG","seasons":[{"id":38772,"name":"قهرمانان - فصل ۱"},{"id":38940,"name":"قهرمانان - فصل ۲"},{"id":39883,"name":"قهرمانان - فصل ۳"}]}

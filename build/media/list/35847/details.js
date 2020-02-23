@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-03 15:22:57","id":35847,"name":"گارفیلد","image":"/Content/Upload/Images/aa3ab747-8eec-4e4d-8a41-540f4a712b0d.jpg","seasons":[{"id":35877,"name":"گارفیلد - فصل ۱"}]}
+{"lastUpdate":"2020-02-23 08:18:11","id":35847,"name":"گارفیلد","image":"/Content/Upload/Images/aa3ab747-8eec-4e4d-8a41-540f4a712b0d.jpg","seasons":[{"id":35877,"name":"گارفیلد - فصل ۱"}]}

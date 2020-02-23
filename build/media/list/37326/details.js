@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-03 15:22:54","id":37326,"name":"وراثت","image":"/Content/Upload/Images/94dfda9c-233a-4114-8d6c-21a02e94b22b.jpg","seasons":[{"id":37339,"name":"وراثت - فصل ۱"}]}
+{"lastUpdate":"2020-02-23 08:18:06","id":37326,"name":"وراثت","image":"/Content/Upload/Images/94dfda9c-233a-4114-8d6c-21a02e94b22b.jpg","seasons":[{"id":37339,"name":"وراثت - فصل ۱"}]}

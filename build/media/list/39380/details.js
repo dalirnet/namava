@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-03 15:22:50","id":39380,"name":"سلام نینجا","image":"/Content/Upload/Images/e702230c-d3d7-410b-96fa-810ccdbaeb4e.JPG","seasons":[{"id":39383,"name":"سلام نینجا - فصل ۱"}]}
+{"lastUpdate":"2020-02-23 08:18:02","id":39380,"name":"سلام نینجا","image":"/Content/Upload/Images/e702230c-d3d7-410b-96fa-810ccdbaeb4e.JPG","seasons":[{"id":39383,"name":"سلام نینجا - فصل ۱"}]}

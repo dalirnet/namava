@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-03 15:23:50","id":3970,"name":"کیهان : یک ادیسه فضایی","image":"/Content/Upload/Images/bfa269e2-6f9a-46cf-9a28-21bb9498c98f.jpg","seasons":[{"id":3990,"name":"کیهان : یک ادیسه فضایی"}]}
+{"lastUpdate":"2020-02-23 08:19:13","id":3970,"name":"کیهان : یک ادیسه فضایی","image":"/Content/Upload/Images/bfa269e2-6f9a-46cf-9a28-21bb9498c98f.jpg","seasons":[{"id":3990,"name":"کیهان : یک ادیسه فضایی"}]}

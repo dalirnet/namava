@@ -1,0 +1,1 @@
+{"lastUpdate":"2020-02-23 08:18:01","id":39657,"name":"بوبا","image":"/Content/Upload/Images/f018d21e-e966-4ad6-86f5-e0293594c9ae.JPG","seasons":[{"id":39665,"name":"بوبا - فصل ۱"},{"id":40893,"name":"بوبا - فصل ۲"}]}

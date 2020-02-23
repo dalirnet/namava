@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-03 15:22:53","id":37787,"name":"سوپرانو","image":"/Content/Upload/Images/c9ff9694-7c87-4284-b390-c27c70252665.jpg","seasons":[{"id":37804,"name":"سوپرانو - فصل ۱"}]}
+{"lastUpdate":"2020-02-23 08:18:05","id":37787,"name":"سوپرانو","image":"/Content/Upload/Images/c9ff9694-7c87-4284-b390-c27c70252665.jpg","seasons":[{"id":37804,"name":"سوپرانو - فصل ۱"}]}

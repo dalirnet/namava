@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-03 15:23:39","id":19337,"name":"سیریوس شکارچی","image":"/Content/Upload/Images/e1f6a42d-00f0-440e-9587-671359a6ed1b.jpg","seasons":[{"id":19353,"name":"سیریوس شکارچی - فصل ۱"}]}
+{"lastUpdate":"2020-02-23 08:19:03","id":19337,"name":"سیریوس شکارچی","image":"/Content/Upload/Images/e1f6a42d-00f0-440e-9587-671359a6ed1b.jpg","seasons":[{"id":19353,"name":"سیریوس شکارچی - فصل ۱"}]}

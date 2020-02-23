@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-03 15:22:53","id":37505,"name":"خدمتکار","image":"/Content/Upload/Images/93072796-4cb7-4160-bfef-50f149a75e16.jpg","seasons":[{"id":37506,"name":"خدمتکار - فصل ۱"}]}
+{"lastUpdate":"2020-02-23 08:18:06","id":37505,"name":"خدمتکار","image":"/Content/Upload/Images/93072796-4cb7-4160-bfef-50f149a75e16.jpg","seasons":[{"id":37506,"name":"خدمتکار - فصل ۱"}]}

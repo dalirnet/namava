@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-03 15:23:48","id":9189,"name":"آواتار: افسانه کورا","image":"/Content/Upload/Images/9983dd49-ae04-4ed2-bb05-c4ddd845da2d.jpg","seasons":[{"id":9190,"name":"آواتار: افسانه کورا"}]}
+{"lastUpdate":"2020-02-23 08:19:11","id":9189,"name":"آواتار: افسانه کورا","image":"/Content/Upload/Images/9983dd49-ae04-4ed2-bb05-c4ddd845da2d.jpg","seasons":[{"id":9190,"name":"آواتار: افسانه کورا"}]}

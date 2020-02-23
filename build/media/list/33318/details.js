@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-03 15:23:03","id":33318,"name":"پنی ورث","image":"/Content/Upload/Images/bdf5a5f7-2008-4581-8a39-990d3de4c7a9.jpg","seasons":[{"id":33339,"name":"پنی ورث - فصل ۱"}]}
+{"lastUpdate":"2020-02-23 08:18:17","id":33318,"name":"پنی ورث","image":"/Content/Upload/Images/bdf5a5f7-2008-4581-8a39-990d3de4c7a9.jpg","seasons":[{"id":33339,"name":"پنی ورث - فصل ۱"}]}

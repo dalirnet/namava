@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-03 15:22:51","id":39215,"name":"فرینج","image":"/Content/Upload/Images/2f8247d8-9ad5-42f3-bda0-d0e8e698344d.JPG","seasons":[{"id":39218,"name":"فرینج - فصل ۱"}]}
+{"lastUpdate":"2020-02-23 08:18:02","id":39215,"name":"فرینج","image":"/Content/Upload/Images/32564fe7-f8ed-4e7f-94bc-43b60816042e.JPG","seasons":[{"id":39218,"name":"فرینج - فصل ۱"},{"id":39488,"name":"فرینج - فصل ۲"},{"id":40047,"name":"فرینج - فصل ۳"},{"id":40352,"name":"فرینج - فصل ۴"},{"id":40848,"name":"فرینج - فصل ۵"}]}
