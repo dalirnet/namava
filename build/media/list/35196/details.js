@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:18:13","id":35196,"name":"اعماق","image":"/Content/Upload/Images/f389023d-2651-48a9-8cf1-7b330ac931d0.jpg","seasons":[{"id":35252,"name":"اعماق - فصل ۱"}]}
+{"lastUpdate":"2020-02-29 15:18:43","id":35196,"name":"اعماق","image":"/Content/Upload/Images/f389023d-2651-48a9-8cf1-7b330ac931d0.jpg","seasons":[{"id":35252,"name":"اعماق - فصل ۱"}]}

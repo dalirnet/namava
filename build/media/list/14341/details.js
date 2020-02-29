@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:19:10","id":14341,"name":"مامور کارتر","image":"/Content/Upload/Images/5dc05b12-c440-4342-9af5-b6c66c7c6955.jpg","seasons":[{"id":14348,"name":"مامور کارتر - فصل ۱"},{"id":25153,"name":"مامور کارتر - فصل ۲"}]}
+{"lastUpdate":"2020-02-29 15:19:38","id":14341,"name":"مامور کارتر","image":"/Content/Upload/Images/5dc05b12-c440-4342-9af5-b6c66c7c6955.jpg","seasons":[{"id":14348,"name":"مامور کارتر - فصل ۱"},{"id":25153,"name":"مامور کارتر - فصل ۲"}]}

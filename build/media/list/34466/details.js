@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:18:15","id":34466,"name":"وایکینگ‌ ها","image":"/Content/Upload/Images/fa0f298e-1a76-4d8f-91f0-e7450f42a3bd.JPG","seasons":[{"id":34517,"name":"وایکینگ‌ ها - فصل ۱"}]}
+{"lastUpdate":"2020-02-29 15:18:45","id":34466,"name":"وایکینگ‌ ها","image":"/Content/Upload/Images/27e5e894-0a32-4827-a78e-ee1dee37ed1d.jpg","seasons":[{"id":34517,"name":"وایکینگ‌ ها - فصل ۱"},{"id":41394,"name":"وایکینگ‌ ها - فصل ۲"}]}

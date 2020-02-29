@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:18:10","id":35792,"name":"گمشده در آز","image":"/Content/Upload/Images/be76ee4d-114c-4442-a90e-0e2b6afc4f9c.JPG","seasons":[{"id":35800,"name":"گمشده در آز - فصل ۱"}]}
+{"lastUpdate":"2020-02-29 15:18:39","id":35792,"name":"گمشده در آز","image":"/Content/Upload/Images/be76ee4d-114c-4442-a90e-0e2b6afc4f9c.JPG","seasons":[{"id":35800,"name":"گمشده در آز - فصل ۱"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:19:11","id":10538,"name":"باروت","image":"/Content/Upload/Images/3ea96240-cef3-49cd-a5b2-0f408ad75b00.jpg","seasons":[{"id":10549,"name":"باروت - فصل ۱"}]}
+{"lastUpdate":"2020-02-29 15:19:39","id":10538,"name":"باروت","image":"/Content/Upload/Images/3ea96240-cef3-49cd-a5b2-0f408ad75b00.jpg","seasons":[{"id":10549,"name":"باروت - فصل ۱"}]}

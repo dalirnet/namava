@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:19:13","id":6973,"name":"آلاسکا: قلمرو یخ زده سیاره زمین","image":"/Content/Upload/Images/d706d240-3a63-41ac-98a9-63cda03559dd.jpg","seasons":[{"id":6975,"name":"آلاسکا: قلمرو یخ زده سیاره زمین"}]}
+{"lastUpdate":"2020-02-29 15:19:42","id":6973,"name":"آلاسکا: قلمرو یخ زده سیاره زمین","image":"/Content/Upload/Images/d706d240-3a63-41ac-98a9-63cda03559dd.jpg","seasons":[{"id":6975,"name":"آلاسکا: قلمرو یخ زده سیاره زمین"}]}

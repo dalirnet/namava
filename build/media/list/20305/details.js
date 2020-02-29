@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:18:58","id":20305,"name":"گربه‌سگ","image":"/Content/Upload/Images/26a41214-394a-48ee-bd22-61ac75ce567a.jpg","seasons":[{"id":20385,"name":"گربه سگ - فصل ۱"}]}
+{"lastUpdate":"2020-02-29 15:19:27","id":20305,"name":"گربه‌سگ","image":"/Content/Upload/Images/26a41214-394a-48ee-bd22-61ac75ce567a.jpg","seasons":[{"id":20385,"name":"گربه سگ - فصل ۱"}]}

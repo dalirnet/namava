@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:18:15","id":34044,"name":"جنگ ویتنام","image":"/Content/Upload/Images/10b9ba9a-c70f-48e6-9c00-56667354eebd.jpg","seasons":[{"id":34049,"name":"جنگ ویتنام - فصل ۱"}]}
+{"lastUpdate":"2020-02-29 15:18:44","id":34044,"name":"جنگ ویتنام","image":"/Content/Upload/Images/10b9ba9a-c70f-48e6-9c00-56667354eebd.jpg","seasons":[{"id":34049,"name":"جنگ ویتنام - فصل ۱"}]}

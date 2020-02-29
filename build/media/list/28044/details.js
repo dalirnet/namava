@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:18:31","id":28044,"name":"پسرها","image":"/Content/Upload/Images/69304368-eddd-479e-9f9b-3ad1beaccf27.jpg","seasons":[{"id":28056,"name":"پسرها - فصل ۱"}]}
+{"lastUpdate":"2020-02-29 15:18:54","id":28044,"name":"پسرها","image":"/Content/Upload/Images/69304368-eddd-479e-9f9b-3ad1beaccf27.jpg","seasons":[{"id":28056,"name":"پسرها - فصل ۱"}]}

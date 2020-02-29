@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:18:01","id":39396,"name":"سیاره انسان","image":"/Content/Upload/Images/a5fb203b-3299-4b53-9439-b2070b07ed04.jpg","seasons":[{"id":39397,"name":"سیاره انسان - فصل ۱"}]}
+{"lastUpdate":"2020-02-29 15:18:32","id":39396,"name":"سیاره انسان","image":"/Content/Upload/Images/a5fb203b-3299-4b53-9439-b2070b07ed04.jpg","seasons":[{"id":39397,"name":"سیاره انسان - فصل ۱"}]}

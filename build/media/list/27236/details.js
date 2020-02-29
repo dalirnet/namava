@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:18:33","id":27236,"name":"۱۰۰","image":"/Content/Upload/Images/7a668fe5-75b5-4394-90e7-7c88c903e495.jpg","seasons":[{"id":27237,"name":"۱۰۰ - فصل ۱"},{"id":29304,"name":"۱۰۰ - فصل ۲"},{"id":40296,"name":"۱۰۰ - فصل ۳"}]}
+{"lastUpdate":"2020-02-29 15:18:58","id":27236,"name":"۱۰۰","image":"/Content/Upload/Images/7a668fe5-75b5-4394-90e7-7c88c903e495.jpg","seasons":[{"id":27237,"name":"۱۰۰ - فصل ۱"},{"id":29304,"name":"۱۰۰ - فصل ۲"},{"id":40296,"name":"۱۰۰ - فصل ۳"}]}

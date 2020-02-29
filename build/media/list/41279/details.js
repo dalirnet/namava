@@ -1,0 +1,1 @@
+{"lastUpdate":"2020-02-29 15:18:30","id":41279,"name":"آدبادز","image":"/Content/Upload/Images/346463bb-abce-46ba-a910-ffca579c1db8.JPG","seasons":[{"id":41282,"name":"آدبادز - فصل ۱"}]}

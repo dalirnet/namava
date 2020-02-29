@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:18:44","id":24027,"name":"سوامپ تینگ","image":"/Content/Upload/Images/1b392966-db83-4d39-897b-c99b46734dc5.jpg","seasons":[{"id":24150,"name":"سوامپ تینگ - فصل ۱"}]}
+{"lastUpdate":"2020-02-29 15:19:11","id":24027,"name":"سوامپ تینگ","image":"/Content/Upload/Images/1b392966-db83-4d39-897b-c99b46734dc5.jpg","seasons":[{"id":24150,"name":"سوامپ تینگ - فصل ۱"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:18:04","id":38657,"name":"غریبه","image":"/Content/Upload/Images/c2b7685c-a5b3-453c-8ea5-852cb893d92c.JPG","seasons":[{"id":38696,"name":"غریبه - فصل ۱"}]}
+{"lastUpdate":"2020-02-29 15:18:34","id":38657,"name":"غریبه","image":"/Content/Upload/Images/c2b7685c-a5b3-453c-8ea5-852cb893d92c.JPG","seasons":[{"id":38696,"name":"غریبه - فصل ۱"}]}

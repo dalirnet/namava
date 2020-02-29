@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:18:56","id":22475,"name":"میراث‌ها","image":"/Content/Upload/Images/86ab2817-6787-4506-8e5d-6fabc5ca3676.jpg","seasons":[{"id":22476,"name":"میراث‌ها - فصل ۱"}]}
+{"lastUpdate":"2020-02-29 15:19:24","id":22475,"name":"میراث‌ها","image":"/Content/Upload/Images/86ab2817-6787-4506-8e5d-6fabc5ca3676.jpg","seasons":[{"id":22476,"name":"میراث‌ها - فصل ۱"}]}

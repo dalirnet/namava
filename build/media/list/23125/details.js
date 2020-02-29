@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:18:52","id":23125,"name":"بیم کوچولوی قدرتمند","image":"/Content/Upload/Images/b3233a8c-6137-4e5b-91f1-084f336d775b.jpg","seasons":[{"id":23126,"name":"بیم کوچولوی قدرتمند - فصل ۱"}]}
+{"lastUpdate":"2020-02-29 15:19:21","id":23125,"name":"بیم کوچولوی قدرتمند","image":"/Content/Upload/Images/b3233a8c-6137-4e5b-91f1-084f336d775b.jpg","seasons":[{"id":23126,"name":"بیم کوچولوی قدرتمند - فصل ۱"}]}

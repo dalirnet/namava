@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:18:46","id":26070,"name":"اسرار فیزیک کوانتوم","image":"/Content/Upload/Images/6d1bff22-f86e-497f-8ab0-d132d9fe3d6b.jpg","seasons":[{"id":26073,"name":"اسرار فیزیک کوانتوم - فصل ۱"}]}
+{"lastUpdate":"2020-02-29 15:19:11","id":26070,"name":"اسرار فیزیک کوانتوم","image":"/Content/Upload/Images/6d1bff22-f86e-497f-8ab0-d132d9fe3d6b.jpg","seasons":[{"id":26073,"name":"اسرار فیزیک کوانتوم - فصل ۱"}]}

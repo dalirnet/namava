@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:18:17","id":31912,"name":"سوپر فوتبالیست ها","image":"/Content/Upload/Images/a41be598-a263-42eb-a719-233fea33b077.jpg","seasons":[{"id":31940,"name":"سوپر فوتبالیست ها - فصل ۱"}]}
+{"lastUpdate":"2020-02-29 15:18:46","id":31912,"name":"سوپر فوتبالیست ها","image":"/Content/Upload/Images/a41be598-a263-42eb-a719-233fea33b077.jpg","seasons":[{"id":31940,"name":"سوپر فوتبالیست ها - فصل ۱"}]}

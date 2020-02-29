@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:18:34","id":27424,"name":"کریستال تاریک: عصر مقاومت","image":"/Content/Upload/Images/c4799169-06dd-4086-b0b9-df9ce524dfdc.jpg","seasons":[{"id":27425,"name":"کریستال تاریک: عصر مقاومت - فصل ۱"}]}
+{"lastUpdate":"2020-02-29 15:18:59","id":27424,"name":"کریستال تاریک: عصر مقاومت","image":"/Content/Upload/Images/c4799169-06dd-4086-b0b9-df9ce524dfdc.jpg","seasons":[{"id":27425,"name":"کریستال تاریک: عصر مقاومت - فصل ۱"}]}

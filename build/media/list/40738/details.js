@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:17:59","id":40738,"name":"اوگی و سوسک ها","image":"/Content/Upload/Images/eb4f69b6-128b-486a-810d-b0ca0e035c51.jpg","seasons":[{"id":40746,"name":"اوگی و سوسک ها - فصل ۱"}]}
+{"lastUpdate":"2020-02-29 15:18:30","id":40738,"name":"اوگی و سوسک ها","image":"/Content/Upload/Images/eb4f69b6-128b-486a-810d-b0ca0e035c51.jpg","seasons":[{"id":40746,"name":"اوگی و سوسک ها - فصل ۱"}]}

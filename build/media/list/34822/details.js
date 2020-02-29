@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:18:13","id":34822,"name":"هایپردرایو","image":"/Content/Upload/Images/1fa96dd6-c38a-4afa-b993-ea66ba1a2812.JPG","seasons":[{"id":34836,"name":"هایپردرایو - فصل ۱"}]}
+{"lastUpdate":"2020-02-29 15:18:43","id":34822,"name":"هایپردرایو","image":"/Content/Upload/Images/1fa96dd6-c38a-4afa-b993-ea66ba1a2812.JPG","seasons":[{"id":34836,"name":"هایپردرایو - فصل ۱"}]}

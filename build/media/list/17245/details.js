@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:19:07","id":17245,"name":"مجنون","image":"/Content/Upload/Images/b90899d2-ea9b-461e-935d-4d633b6c221a.jpg","seasons":[{"id":17246,"name":"مجنون"}]}
+{"lastUpdate":"2020-02-29 15:19:34","id":17245,"name":"مجنون","image":"/Content/Upload/Images/b90899d2-ea9b-461e-935d-4d633b6c221a.jpg","seasons":[{"id":17246,"name":"مجنون"}]}

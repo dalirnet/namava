@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:18:27","id":30238,"name":"درون مغز بیل","image":"/Content/Upload/Images/3c1dd255-e6f9-463d-ae67-4e7882d00f43.jpg","seasons":[{"id":30240,"name":"درون مغز بیل - فصل ۱"}]}
+{"lastUpdate":"2020-02-29 15:18:53","id":30238,"name":"درون مغز بیل","image":"/Content/Upload/Images/3c1dd255-e6f9-463d-ae67-4e7882d00f43.jpg","seasons":[{"id":30240,"name":"درون مغز بیل - فصل ۱"}]}

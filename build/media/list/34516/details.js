@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:18:15","id":34516,"name":"دروازه استاینز","image":"/Content/Upload/Images/b6fb38f9-d6f0-436e-ba23-c1e9957f5aac.jpg","seasons":[{"id":34531,"name":"دروازه استاینز - فصل ۱"}]}
+{"lastUpdate":"2020-02-29 15:18:43","id":34516,"name":"دروازه استاینز","image":"/Content/Upload/Images/b6fb38f9-d6f0-436e-ba23-c1e9957f5aac.jpg","seasons":[{"id":34531,"name":"دروازه استاینز - فصل ۱"}]}

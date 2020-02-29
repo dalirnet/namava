@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-23 08:18:06","id":37809,"name":"شروود","image":"/Content/Upload/Images/890e5959-f142-4bfc-99a9-753426116632.JPG","seasons":[{"id":37816,"name":"شروود - فصل ۱"}]}
+{"lastUpdate":"2020-02-29 15:18:35","id":37809,"name":"شروود","image":"/Content/Upload/Images/890e5959-f142-4bfc-99a9-753426116632.JPG","seasons":[{"id":37816,"name":"شروود - فصل ۱"}]}
