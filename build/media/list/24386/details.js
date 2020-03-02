@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:19:17","id":24386,"name":"تام و جری","image":"/Content/Upload/Images/34c449dc-cb08-442f-9f86-570831d3c4dd.jpg","seasons":[{"id":24394,"name":"تام و جری - فصل ۱"}]}
+{"lastUpdate":"2020-03-02 09:26:24","id":24386,"name":"تام و جری","image":"/Content/Upload/Images/34c449dc-cb08-442f-9f86-570831d3c4dd.jpg","seasons":[{"id":24394,"name":"تام و جری - فصل ۱"}]}

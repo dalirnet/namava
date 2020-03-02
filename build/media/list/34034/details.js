@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:18:38","id":34034,"name":"دل","image":"/Content/Upload/Images/97fb031f-ad5f-4cf0-ac5f-c2fceb7cb630.JPG","seasons":[{"id":34035,"name":"دل - فصل ۱"}]}
+{"lastUpdate":"2020-03-02 09:25:42","id":34034,"name":"دل","image":"/Content/Upload/Images/97fb031f-ad5f-4cf0-ac5f-c2fceb7cb630.JPG","seasons":[{"id":34035,"name":"دل - فصل ۱"}]}

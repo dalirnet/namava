@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:18:37","id":37040,"name":"چیپ و پوتیتو","image":"/Content/Upload/Images/97b55c67-cf18-4168-8b27-5e525964bff0.jpg","seasons":[{"id":37067,"name":"چیپ و پوتیتو - فصل ۱"},{"id":40701,"name":"چیپ و پوتیتو - فصل ۲"}]}
+{"lastUpdate":"2020-03-02 09:25:40","id":37040,"name":"چیپ و پوتیتو","image":"/Content/Upload/Images/97b55c67-cf18-4168-8b27-5e525964bff0.jpg","seasons":[{"id":37067,"name":"چیپ و پوتیتو - فصل ۱"},{"id":40701,"name":"چیپ و پوتیتو - فصل ۲"}]}

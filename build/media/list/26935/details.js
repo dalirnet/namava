@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:18:38","id":26935,"name":"مانکن","image":"/Content/Upload/Images/7b80e614-d448-4807-9807-0e3b19285753.jpg","seasons":[{"id":26936,"name":"مانکن - فصل ۱"}]}
+{"lastUpdate":"2020-03-02 09:25:42","id":26935,"name":"مانکن","image":"/Content/Upload/Images/7b80e614-d448-4807-9807-0e3b19285753.jpg","seasons":[{"id":26936,"name":"مانکن - فصل ۱"}]}

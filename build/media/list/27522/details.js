@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:19:06","id":27522,"name":"سیاره آبی","image":"/Content/Upload/Images/e017f0eb-9181-4723-b780-46fba81bd81d.jpg","seasons":[{"id":27523,"name":"سیاره آبی - فصل ۱"}]}
+{"lastUpdate":"2020-03-02 09:26:16","id":27522,"name":"سیاره آبی","image":"/Content/Upload/Images/e017f0eb-9181-4723-b780-46fba81bd81d.jpg","seasons":[{"id":27523,"name":"سیاره آبی - فصل ۱"}]}

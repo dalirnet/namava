@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:18:52","id":27210,"name":"گومورا","image":"/Content/Upload/Images/3b950956-f42b-458b-b623-19fafbe8a722.JPG","seasons":[{"id":27211,"name":"گومورا - فصل ۱"},{"id":30551,"name":"گومورا - فصل ۲"},{"id":40453,"name":"گومورا - فصل ۳"}]}
+{"lastUpdate":"2020-03-02 09:26:06","id":27210,"name":"گومورا","image":"/Content/Upload/Images/3b950956-f42b-458b-b623-19fafbe8a722.JPG","seasons":[{"id":27211,"name":"گومورا - فصل ۱"},{"id":30551,"name":"گومورا - فصل ۲"},{"id":40453,"name":"گومورا - فصل ۳"}]}

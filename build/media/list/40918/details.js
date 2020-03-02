@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:18:30","id":40918,"name":"فیلم ها","image":"/Content/Upload/Images/26633c73-d030-4f8d-9d9c-284381578e80.jpg","seasons":[{"id":40923,"name":"فیلم ها - فصل ۱"}]}
+{"lastUpdate":"2020-03-02 09:25:33","id":40918,"name":"فیلم ها","image":"/Content/Upload/Images/26633c73-d030-4f8d-9d9c-284381578e80.jpg","seasons":[{"id":40923,"name":"فیلم ها - فصل ۱"}]}

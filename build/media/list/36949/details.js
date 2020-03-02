@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:18:37","id":36949,"name":"اسنوپی در فضا","image":"/Content/Upload/Images/feb7efb3-3f97-4c9a-bbd8-ab5152d7d2f5.jpg","seasons":[{"id":36950,"name":"اسنوپی در فضا - فصل ۱"}]}
+{"lastUpdate":"2020-03-02 09:25:41","id":36949,"name":"اسنوپی در فضا","image":"/Content/Upload/Images/feb7efb3-3f97-4c9a-bbd8-ab5152d7d2f5.jpg","seasons":[{"id":36950,"name":"اسنوپی در فضا - فصل ۱"}]}

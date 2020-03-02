@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:18:55","id":21554,"name":"لژیون","image":"/Content/Upload/Images/c7d97309-2a9c-41bb-b721-2dae1037a278.jpg","seasons":[{"id":21555,"name":"لژیون - فصل ۱"},{"id":26709,"name":"لژیون - فصل ۲"},{"id":29599,"name":"لژیون - فصل ۳"}]}
+{"lastUpdate":"2020-03-02 09:26:07","id":21554,"name":"لژیون","image":"/Content/Upload/Images/c7d97309-2a9c-41bb-b721-2dae1037a278.jpg","seasons":[{"id":21555,"name":"لژیون - فصل ۱"},{"id":26709,"name":"لژیون - فصل ۲"},{"id":29599,"name":"لژیون - فصل ۳"}]}

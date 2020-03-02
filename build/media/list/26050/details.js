@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:19:12","id":26050,"name":"مجموعه انیمیشنی مرد عنکبوتی","image":"/Content/Upload/Images/9abefb16-ab9a-40d7-8aea-b04d7c31de6b.jpg","seasons":[{"id":26051,"name":"مجموعه انیمیشنی مرد عنکبوتی - فصل ۱"}]}
+{"lastUpdate":"2020-03-02 09:26:21","id":26050,"name":"مجموعه انیمیشنی مرد عنکبوتی","image":"/Content/Upload/Images/9abefb16-ab9a-40d7-8aea-b04d7c31de6b.jpg","seasons":[{"id":26051,"name":"مجموعه انیمیشنی مرد عنکبوتی - فصل ۱"}]}

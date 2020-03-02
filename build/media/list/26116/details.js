@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:19:11","id":26116,"name":"شش فوت زیر زمین","image":"/Content/Upload/Images/75ec7f49-5420-4925-b0cc-737a0e44964c.JPG","seasons":[{"id":26129,"name":"شش فوت زیر زمین - فصل ۱"}]}
+{"lastUpdate":"2020-03-02 09:26:20","id":26116,"name":"شش فوت زیر زمین","image":"/Content/Upload/Images/75ec7f49-5420-4925-b0cc-737a0e44964c.JPG","seasons":[{"id":26129,"name":"شش فوت زیر زمین - فصل ۱"}]}

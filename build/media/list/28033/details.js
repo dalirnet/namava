@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:19:00","id":28033,"name":"فشن داگ","image":"/Content/Upload/Images/faa28d38-4520-445a-aff5-77b1e2b77716.jpg","seasons":[{"id":28034,"name":"فشن داگ - فصل ۱"}]}
+{"lastUpdate":"2020-03-02 09:26:12","id":28033,"name":"فشن داگ","image":"/Content/Upload/Images/faa28d38-4520-445a-aff5-77b1e2b77716.jpg","seasons":[{"id":28034,"name":"فشن داگ - فصل ۱"}]}

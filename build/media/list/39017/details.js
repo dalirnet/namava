@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:18:33","id":39017,"name":"کشتن","image":"/Content/Upload/Images/c9279344-6e7f-4d10-be13-62f091ebbdbe.JPG","seasons":[{"id":39051,"name":"کشتن - فصل ۱"}]}
+{"lastUpdate":"2020-03-02 09:25:36","id":39017,"name":"کشتن","image":"/Content/Upload/Images/c9279344-6e7f-4d10-be13-62f091ebbdbe.JPG","seasons":[{"id":39051,"name":"کشتن - فصل ۱"}]}

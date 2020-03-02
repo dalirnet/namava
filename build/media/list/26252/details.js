@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:19:11","id":26252,"name":"دیجیمون فیوژن","image":"/Content/Upload/Images/0cb0d573-d83a-4a05-8e1d-b951695e4ae4.jpg","seasons":[{"id":26256,"name":"دیجیمون فیوژن - فصل ۱"}]}
+{"lastUpdate":"2020-03-02 09:26:20","id":26252,"name":"دیجیمون فیوژن","image":"/Content/Upload/Images/0cb0d573-d83a-4a05-8e1d-b951695e4ae4.jpg","seasons":[{"id":26256,"name":"دیجیمون فیوژن - فصل ۱"}]}

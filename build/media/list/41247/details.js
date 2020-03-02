@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:18:30","id":41247,"name":"کیپو و عصر هیولاهای عجیب","image":"/Content/Upload/Images/3dfed548-b40f-42dc-b122-e01fcbd5704c.JPG","seasons":[{"id":41260,"name":"کیپو و عصر هیولاهای عجیب - فصل ۱"}]}
+{"lastUpdate":"2020-03-02 09:25:34","id":41247,"name":"کیپو و عصر هیولاهای عجیب","image":"/Content/Upload/Images/3dfed548-b40f-42dc-b122-e01fcbd5704c.JPG","seasons":[{"id":41260,"name":"کیپو و عصر هیولاهای عجیب - فصل ۱"}]}

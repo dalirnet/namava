@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:18:47","id":31438,"name":"لاک پشت های نینجا","image":"/Content/Upload/Images/b352d88a-3290-48d8-abea-9ac639a425ff.jpg","seasons":[{"id":31448,"name":"لاک پشت های نینجا - فصل ۱"}]}
+{"lastUpdate":"2020-03-02 09:25:51","id":31438,"name":"لاک پشت های نینجا","image":"/Content/Upload/Images/b352d88a-3290-48d8-abea-9ac639a425ff.jpg","seasons":[{"id":31448,"name":"لاک پشت های نینجا - فصل ۱"}]}

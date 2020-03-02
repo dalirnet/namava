@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:19:39","id":12860,"name":"روزگار رضاخانی","image":"/Content/Upload/Images/a3494f12-4caa-4841-ae9a-b22717ac853b.jpg","seasons":[{"id":12861,"name":"روزگار رضاخانی - فصل ۱"}]}
+{"lastUpdate":"2020-03-02 09:26:39","id":12860,"name":"روزگار رضاخانی","image":"/Content/Upload/Images/a3494f12-4caa-4841-ae9a-b22717ac853b.jpg","seasons":[{"id":12861,"name":"روزگار رضاخانی - فصل ۱"}]}

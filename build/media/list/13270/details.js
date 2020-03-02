@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:19:36","id":13270,"name":"غول‌ کش‌ها","image":"/Content/Upload/Images/97f08f74-59c9-4e0a-a070-3bac7c55aeea.jpg","seasons":[{"id":13271,"name":"غول‌ کش‌ها - فصل ۱"},{"id":15120,"name":"غول‌ کش‌ها - فصل ۲"},{"id":16505,"name":"غول‌ کش‌ها - فصل ۳"}]}
+{"lastUpdate":"2020-03-02 09:26:36","id":13270,"name":"غول‌ کش‌ها","image":"/Content/Upload/Images/97f08f74-59c9-4e0a-a070-3bac7c55aeea.jpg","seasons":[{"id":13271,"name":"غول‌ کش‌ها - فصل ۱"},{"id":15120,"name":"غول‌ کش‌ها - فصل ۲"},{"id":16505,"name":"غول‌ کش‌ها - فصل ۳"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:18:50","id":30950,"name":"آخرین کشتی","image":"/Content/Upload/Images/6f1b84d7-5d7a-4fcc-9909-9fbf938388ad.JPG","seasons":[{"id":30951,"name":"آخرین کشتی - فصل ۱"}]}
+{"lastUpdate":"2020-03-02 09:26:01","id":30950,"name":"آخرین کشتی","image":"/Content/Upload/Images/3df55863-1afa-4dab-adcd-ae574d652355.jpg","seasons":[{"id":30951,"name":"آخرین کشتی - فصل ۱"},{"id":41752,"name":"آخرین کشتی - فصل ۲"}]}

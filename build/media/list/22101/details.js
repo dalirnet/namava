@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:19:24","id":22101,"name":"بچه‌های آلپ","image":"/Content/Upload/Images/4b4a79e8-a9c3-42a5-b313-8d328dedbffa.jpg","seasons":[{"id":22102,"name":"بچه‌های آلپ"}]}
+{"lastUpdate":"2020-03-02 09:26:31","id":22101,"name":"بچه‌های آلپ","image":"/Content/Upload/Images/4b4a79e8-a9c3-42a5-b313-8d328dedbffa.jpg","seasons":[{"id":22102,"name":"بچه‌های آلپ"}]}

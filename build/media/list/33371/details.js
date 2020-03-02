@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:18:46","id":33371,"name":"ماندالورین","image":"/Content/Upload/Images/cffe6b67-87e7-4955-857f-d17467d2061f.jpg","seasons":[{"id":33384,"name":"ماندالورین - فصل ۱"}]}
+{"lastUpdate":"2020-03-02 09:25:50","id":33371,"name":"ماندالورین","image":"/Content/Upload/Images/cffe6b67-87e7-4955-857f-d17467d2061f.jpg","seasons":[{"id":33384,"name":"ماندالورین - فصل ۱"}]}

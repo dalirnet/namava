@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:19:21","id":22534,"name":"سیاره ما","image":"/Content/Upload/Images/2f1b92a7-59c8-4a9f-a838-a976c8a6a1d9.jpg","seasons":[{"id":22535,"name":"سیاره ما - فصل ۱"}]}
+{"lastUpdate":"2020-03-02 09:26:28","id":22534,"name":"سیاره ما","image":"/Content/Upload/Images/2f1b92a7-59c8-4a9f-a838-a976c8a6a1d9.jpg","seasons":[{"id":22535,"name":"سیاره ما - فصل ۱"}]}

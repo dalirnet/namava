@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:18:38","id":36369,"name":"دومینو","image":"/Content/Upload/Images/db0b7969-e64d-4de4-ae94-5ba407470c4c.JPG","seasons":[{"id":36397,"name":"دومینو - فصل ۱"}]}
+{"lastUpdate":"2020-03-02 09:25:41","id":36369,"name":"دومینو","image":"/Content/Upload/Images/db0b7969-e64d-4de4-ae94-5ba407470c4c.JPG","seasons":[{"id":36397,"name":"دومینو - فصل ۱"}]}

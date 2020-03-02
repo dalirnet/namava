@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:19:29","id":17437,"name":"تاج","image":"/Content/Upload/Images/f35f14fe-b37f-44bf-a3be-ed404289b663.JPG","seasons":[{"id":17479,"name":"تاج - فصل ۱"},{"id":19607,"name":"تاج - فصل ۲"},{"id":36929,"name":"تاج - فصل ۳"}]}
+{"lastUpdate":"2020-03-02 09:26:32","id":17437,"name":"تاج","image":"/Content/Upload/Images/f35f14fe-b37f-44bf-a3be-ed404289b663.JPG","seasons":[{"id":17479,"name":"تاج - فصل ۱"},{"id":19607,"name":"تاج - فصل ۲"},{"id":36929,"name":"تاج - فصل ۳"}]}

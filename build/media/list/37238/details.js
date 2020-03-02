@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:18:36","id":37238,"name":"دراکولا","image":"/Content/Upload/Images/ca752545-b16e-463c-a077-3a30476adfe9.jpg","seasons":[{"id":37254,"name":"دراکولا - فصل ۱"}]}
+{"lastUpdate":"2020-03-02 09:25:40","id":37238,"name":"دراکولا","image":"/Content/Upload/Images/ca752545-b16e-463c-a077-3a30476adfe9.jpg","seasons":[{"id":37254,"name":"دراکولا - فصل ۱"}]}

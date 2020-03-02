@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:18:59","id":28500,"name":"ماجراهای اسکار","image":"/Content/Upload/Images/d83743c8-36d2-4c3f-84dc-931e768a4869.jpg","seasons":[{"id":28503,"name":"ماجراهای اسکار - فصل ۱"}]}
+{"lastUpdate":"2020-03-02 09:26:11","id":28500,"name":"ماجراهای اسکار","image":"/Content/Upload/Images/d83743c8-36d2-4c3f-84dc-931e768a4869.jpg","seasons":[{"id":28503,"name":"ماجراهای اسکار - فصل ۱"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:19:43","id":3843,"name":"پاندا کونگ فو کار","image":"/Content/Upload/Images/f7753c82-de05-476b-8c01-2bc164cf5e05.jpg","seasons":[{"id":3844,"name":"پاندا کونگ فو کار"}]}
+{"lastUpdate":"2020-03-02 09:26:42","id":3843,"name":"پاندا کونگ فو کار","image":"/Content/Upload/Images/f7753c82-de05-476b-8c01-2bc164cf5e05.jpg","seasons":[{"id":3844,"name":"پاندا کونگ فو کار"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:19:13","id":7279,"name":"شکارچیان خطرناک","image":"/Content/Upload/Images/090c4fd4-e1ef-4a94-9059-396d3ae2bb28.jpg","seasons":[{"id":7280,"name":"شکارچیان خطرناک"}]}
+{"lastUpdate":"2020-03-02 09:26:21","id":7279,"name":"شکارچیان خطرناک","image":"/Content/Upload/Images/090c4fd4-e1ef-4a94-9059-396d3ae2bb28.jpg","seasons":[{"id":7280,"name":"شکارچیان خطرناک"}]}

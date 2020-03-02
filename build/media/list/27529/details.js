@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-02-29 15:19:06","id":27529,"name":"آسمان حسین","image":"/Content/Upload/Images/29107d20-fdd2-4f7a-b9d9-1a03d067ce08.jpg","seasons":[{"id":27530,"name":"آسمان حسین - فصل ۱"}]}
+{"lastUpdate":"2020-03-02 09:26:16","id":27529,"name":"آسمان حسین","image":"/Content/Upload/Images/29107d20-fdd2-4f7a-b9d9-1a03d067ce08.jpg","seasons":[{"id":27530,"name":"آسمان حسین - فصل ۱"}]}
