@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-02 09:26:41","id":8377,"name":"هنر طراحی","image":"/Content/Upload/Images/00ea9e4e-fc56-40a1-8fdf-746241e93267.jpg","seasons":[{"id":8378,"name":"هنر طراحی"}]}
+{"lastUpdate":"2020-03-04 09:54:51","id":8377,"name":"هنر طراحی","image":"/Content/Upload/Images/00ea9e4e-fc56-40a1-8fdf-746241e93267.jpg","seasons":[{"id":8378,"name":"هنر طراحی"}]}

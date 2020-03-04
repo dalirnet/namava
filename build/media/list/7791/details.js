@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-02 09:26:41","id":7791,"name":"خرس های مهربون","image":"/Content/Upload/Images/66c616fb-3678-4f4c-8f47-aa7b8fbdadca.jpg","seasons":[{"id":7794,"name":"خرس های مهربون"}]}
+{"lastUpdate":"2020-03-04 09:54:51","id":7791,"name":"خرس های مهربون","image":"/Content/Upload/Images/66c616fb-3678-4f4c-8f47-aa7b8fbdadca.jpg","seasons":[{"id":7794,"name":"خرس های مهربون"}]}

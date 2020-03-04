@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-02 09:26:38","id":14507,"name":"گمشده در فضا","image":"/Content/Upload/Images/c4e359c0-0aff-4161-b206-7bc5ec34866d.JPG","seasons":[{"id":14509,"name":"گمشده در فضا - فصل ۱"},{"id":36503,"name":"گمشده در فضا - فصل ۲"}]}
+{"lastUpdate":"2020-03-04 09:54:46","id":14507,"name":"گمشده در فضا","image":"/Content/Upload/Images/c4e359c0-0aff-4161-b206-7bc5ec34866d.JPG","seasons":[{"id":14509,"name":"گمشده در فضا - فصل ۱"},{"id":36503,"name":"گمشده در فضا - فصل ۲"}]}

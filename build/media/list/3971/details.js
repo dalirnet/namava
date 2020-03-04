@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-02 09:26:40","id":3971,"name":"شکار","image":"/Content/Upload/Images/70909b7c-458b-4217-b57e-5bf429c3c03d.jpg","seasons":[{"id":3989,"name":"شکار"}]}
+{"lastUpdate":"2020-03-04 09:54:49","id":3971,"name":"شکار","image":"/Content/Upload/Images/70909b7c-458b-4217-b57e-5bf429c3c03d.jpg","seasons":[{"id":3989,"name":"شکار"}]}

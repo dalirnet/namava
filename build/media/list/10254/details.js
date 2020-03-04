@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-02 09:26:35","id":10254,"name":"بدترین جادوگر","image":"/Content/Upload/Images/5caabd12-13b8-42b4-8fca-e970a098f490.jpg","seasons":[{"id":10260,"name":"بدترین جادوگر - فصل ۱"},{"id":17299,"name":"بدترین جادوگر - فصل ۲"}]}
+{"lastUpdate":"2020-03-04 09:54:41","id":10254,"name":"بدترین جادوگر","image":"/Content/Upload/Images/5caabd12-13b8-42b4-8fca-e970a098f490.jpg","seasons":[{"id":10260,"name":"بدترین جادوگر - فصل ۱"},{"id":17299,"name":"بدترین جادوگر - فصل ۲"}]}

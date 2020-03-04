@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-02 09:26:34","id":18154,"name":"تسخیر در عمارت هیل","image":"/Content/Upload/Images/205c68bd-add0-4c6d-a6fb-8ec657521be0.jpg","seasons":[{"id":18155,"name":"تسخیر در عمارت هیل - فصل ۱"}]}
+{"lastUpdate":"2020-03-04 09:54:40","id":18154,"name":"تسخیر در عمارت هیل","image":"/Content/Upload/Images/205c68bd-add0-4c6d-a6fb-8ec657521be0.jpg","seasons":[{"id":18155,"name":"تسخیر در عمارت هیل - فصل ۱"}]}

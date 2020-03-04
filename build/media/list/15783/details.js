@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-02 09:26:37","id":15783,"name":"توت‌ فرنگی کوچولو","image":"/Content/Upload/Images/eb41dda8-7b29-4d89-82db-65e3aa2f6841.jpg","seasons":[{"id":15787,"name":"توت‌فرنگی کوچولو"}]}
+{"lastUpdate":"2020-03-04 09:54:46","id":15783,"name":"توت‌ فرنگی کوچولو","image":"/Content/Upload/Images/eb41dda8-7b29-4d89-82db-65e3aa2f6841.jpg","seasons":[{"id":15787,"name":"توت‌فرنگی کوچولو"}]}

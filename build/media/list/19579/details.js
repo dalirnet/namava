@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-02 09:26:26","id":19579,"name":"رقص روی شیشه","image":"/Content/Upload/Images/f4574771-25eb-4513-912f-b13d182983ee.jpg","seasons":[{"id":19580,"name":"رقص روی شیشه - فصل ۱"}]}
+{"lastUpdate":"2020-03-04 09:54:25","id":19579,"name":"رقص روی شیشه","image":"/Content/Upload/Images/f4574771-25eb-4513-912f-b13d182983ee.jpg","seasons":[{"id":19580,"name":"رقص روی شیشه - فصل ۱"}]}

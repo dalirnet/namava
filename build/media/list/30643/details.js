@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-02 09:26:02","id":30643,"name":"پرنسس سوفیا","image":"/Content/Upload/Images/0f304ea0-7a83-45ba-8e3c-6917774bf335.JPG","seasons":[{"id":30652,"name":"پرنسس سوفیا"}]}
+{"lastUpdate":"2020-03-04 09:54:01","id":30643,"name":"پرنسس سوفیا","image":"/Content/Upload/Images/0f304ea0-7a83-45ba-8e3c-6917774bf335.JPG","seasons":[{"id":30652,"name":"پرنسس سوفیا"}]}

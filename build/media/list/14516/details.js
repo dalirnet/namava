@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-02 09:26:35","id":14516,"name":"آنه","image":"/Content/Upload/Images/42c31b3b-7670-490f-a1c3-3e08564659f5.jpg","seasons":[{"id":14525,"name":"آنه - فصل ۱"},{"id":17402,"name":"آنه - فصل ۲"}]}
+{"lastUpdate":"2020-03-04 09:54:43","id":14516,"name":"آنه","image":"/Content/Upload/Images/42c31b3b-7670-490f-a1c3-3e08564659f5.jpg","seasons":[{"id":14525,"name":"آنه - فصل ۱"},{"id":17402,"name":"آنه - فصل ۲"}]}

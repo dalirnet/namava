@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-02 09:25:44","id":35175,"name":"مارچلا","image":"/Content/Upload/Images/6607c915-b94d-4c6f-9d51-7108f0f87b71.JPG","seasons":[{"id":35278,"name":"مارچلا - فصل ۱"},{"id":40008,"name":"مارچلا - فصل ۲"}]}
+{"lastUpdate":"2020-03-04 09:53:47","id":35175,"name":"مارچلا","image":"/Content/Upload/Images/6607c915-b94d-4c6f-9d51-7108f0f87b71.JPG","seasons":[{"id":35278,"name":"مارچلا - فصل ۱"},{"id":40008,"name":"مارچلا - فصل ۲"}]}

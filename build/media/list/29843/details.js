@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-02 09:26:07","id":29843,"name":"اسمورف‌ ها","image":"/Content/Upload/Images/a0d94049-24d4-4501-9671-5852fb4abe1f.JPG","seasons":[{"id":29844,"name":"اسمورف‌ ها - فصل ۱"}]}
+{"lastUpdate":"2020-03-04 09:54:06","id":29843,"name":"اسمورف‌ ها","image":"/Content/Upload/Images/a0d94049-24d4-4501-9671-5852fb4abe1f.JPG","seasons":[{"id":29844,"name":"اسمورف‌ ها - فصل ۱"}]}

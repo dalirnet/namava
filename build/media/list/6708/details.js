@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-02 09:26:42","id":6708,"name":"نیروهای طبیعت همراه با برایان کاکس","image":"/Content/Upload/Images/d2501a7d-8ed5-4bfe-bb14-58f1c6825fe0.jpg","seasons":[{"id":6710,"name":"نیروهای طبیعت همراه با برایان کاکس"}]}
+{"lastUpdate":"2020-03-04 09:54:52","id":6708,"name":"نیروهای طبیعت همراه با برایان کاکس","image":"/Content/Upload/Images/d2501a7d-8ed5-4bfe-bb14-58f1c6825fe0.jpg","seasons":[{"id":6710,"name":"نیروهای طبیعت همراه با برایان کاکس"}]}

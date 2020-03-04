@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-02 09:26:34","id":17212,"name":"روبی رنگین‌کمان","image":"/Content/Upload/Images/b34e877a-d3ef-4043-ae63-de2f3b0e29d9.jpg","seasons":[{"id":17213,"name":"روبی رنگین‌کمان"}]}
+{"lastUpdate":"2020-03-04 09:54:41","id":17212,"name":"روبی رنگین‌کمان","image":"/Content/Upload/Images/b34e877a-d3ef-4043-ae63-de2f3b0e29d9.jpg","seasons":[{"id":17213,"name":"روبی رنگین‌کمان"}]}

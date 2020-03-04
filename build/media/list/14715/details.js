@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-02 09:26:37","id":14715,"name":"فوتبالیست‌ها","image":"/Content/Upload/Images/e934a830-c723-4983-86f0-27eba56e8bb9.jpg","seasons":[{"id":14716,"name":"فوتبالیست‌ها - فصل ۱"}]}
+{"lastUpdate":"2020-03-04 09:54:46","id":14715,"name":"فوتبالیست‌ها","image":"/Content/Upload/Images/e934a830-c723-4983-86f0-27eba56e8bb9.jpg","seasons":[{"id":14716,"name":"فوتبالیست‌ها - فصل ۱"}]}

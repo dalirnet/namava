@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-02 09:25:36","id":39573,"name":"کوتوله را بگیرید","image":"/Content/Upload/Images/78890eac-dc9b-468e-8fe9-996796cb66fc.JPG","seasons":[{"id":39637,"name":"کوتوله را بگیرید - فصل ۱"}]}
+{"lastUpdate":"2020-03-04 09:53:37","id":39573,"name":"کوتوله را بگیرید","image":"/Content/Upload/Images/78890eac-dc9b-468e-8fe9-996796cb66fc.JPG","seasons":[{"id":39637,"name":"کوتوله را بگیرید - فصل ۱"}]}

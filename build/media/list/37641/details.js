@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-02 09:25:40","id":37641,"name":"سریع و خشمگین: ریسرهای جاسوس","image":"/Content/Upload/Images/00fda6c4-0bdb-41fa-8c0e-6efc0cd392b0.JPG","seasons":[{"id":37671,"name":"سریع و خشمگین: ریسرهای جاسوس - فصل ۱"}]}
+{"lastUpdate":"2020-03-04 09:53:42","id":37641,"name":"سریع و خشمگین: ریسرهای جاسوس","image":"/Content/Upload/Images/00fda6c4-0bdb-41fa-8c0e-6efc0cd392b0.JPG","seasons":[{"id":37671,"name":"سریع و خشمگین: ریسرهای جاسوس - فصل ۱"}]}

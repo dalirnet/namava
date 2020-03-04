@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-02 09:25:36","id":39158,"name":"غذای خیابانی","image":"/Content/Upload/Images/9a95a098-5b2e-4d23-b768-1df09d551a29.jpg","seasons":[{"id":39172,"name":"غذای خیابانی - فصل ۱"}]}
+{"lastUpdate":"2020-03-04 09:53:38","id":39158,"name":"غذای خیابانی","image":"/Content/Upload/Images/9a95a098-5b2e-4d23-b768-1df09d551a29.jpg","seasons":[{"id":39172,"name":"غذای خیابانی - فصل ۱"}]}

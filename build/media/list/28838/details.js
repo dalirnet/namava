@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-02 09:26:11","id":28838,"name":"کابوی بیباپ","image":"/Content/Upload/Images/48fe8177-79e9-4aa2-ba7c-52744a40505b.JPG","seasons":[{"id":28839,"name":"کابوی بیباپ - فصل ۱"}]}
+{"lastUpdate":"2020-03-04 09:54:10","id":28838,"name":"کابوی بیباپ","image":"/Content/Upload/Images/48fe8177-79e9-4aa2-ba7c-52744a40505b.JPG","seasons":[{"id":28839,"name":"کابوی بیباپ - فصل ۱"}]}

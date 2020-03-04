@@ -1,0 +1,1 @@
+{"lastUpdate":"2020-03-04 09:53:34","id":42019,"name":"شکارچیان","image":"/Content/Upload/Images/328f1e25-a559-4eac-b27e-9761d00e3c57.jpg","seasons":[{"id":42040,"name":"شکارچیان - فصل ۱"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-02 09:26:28","id":22555,"name":"شن های روان","image":"/Content/Upload/Images/065cb651-9877-49b2-b644-66fee0d97a51.jpg","seasons":[{"id":22560,"name":"شن‌های روان - فصل ۱"}]}
+{"lastUpdate":"2020-03-04 09:54:27","id":22555,"name":"شن های روان","image":"/Content/Upload/Images/065cb651-9877-49b2-b644-66fee0d97a51.jpg","seasons":[{"id":22560,"name":"شن‌های روان - فصل ۱"}]}

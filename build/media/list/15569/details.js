@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-02 09:26:37","id":15569,"name":"بازگشت زورو","image":"/Content/Upload/Images/2d6d5897-7426-49e2-a2dd-ac0f673aabdb.jpg","seasons":[{"id":15575,"name":"بازگشت زورو"}]}
+{"lastUpdate":"2020-03-04 09:54:46","id":15569,"name":"بازگشت زورو","image":"/Content/Upload/Images/2d6d5897-7426-49e2-a2dd-ac0f673aabdb.jpg","seasons":[{"id":15575,"name":"بازگشت زورو"}]}
