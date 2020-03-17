@@ -1,0 +1,1 @@
+{"lastUpdate":"2020-03-17 12:35:35","id":43120,"name":"داستان های شگفت انگیز","image":"/Content/Upload/Images/f54d72ee-cf74-4e8f-8f94-7e27f77b5fc5.jpg","seasons":[{"id":43121,"name":"داستان های شگفت انگیز - فصل ۱"}]}

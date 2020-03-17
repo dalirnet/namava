@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:53:41","id":38378,"name":"مرد آینده","image":"/Content/Upload/Images/e2d7b757-8b50-4ef1-a0da-2c3f926143e7.JPG","seasons":[{"id":38383,"name":"مرد آینده - فصل ۱"}]}
+{"lastUpdate":"2020-03-17 12:35:46","id":38378,"name":"مرد آینده","image":"/Content/Upload/Images/e2d7b757-8b50-4ef1-a0da-2c3f926143e7.JPG","seasons":[{"id":38383,"name":"مرد آینده - فصل ۱"}]}

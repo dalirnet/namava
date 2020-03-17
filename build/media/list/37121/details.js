@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:53:42","id":37121,"name":"اوزارک","image":"/Content/Upload/Images/498fab54-d2e7-4dda-b648-3d01859906ce.JPG","seasons":[{"id":37175,"name":"اوزارک - فصل ۱"}]}
+{"lastUpdate":"2020-03-17 12:35:50","id":37121,"name":"اوزارک","image":"/Content/Upload/Images/498fab54-d2e7-4dda-b648-3d01859906ce.JPG","seasons":[{"id":37175,"name":"اوزارک - فصل ۱"}]}

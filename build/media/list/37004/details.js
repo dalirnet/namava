@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:53:37","id":37004,"name":"رعد سیاه","image":"/Content/Upload/Images/961215c9-3a17-4ac0-981c-2d2789f42680.JPG","seasons":[{"id":37006,"name":"رعد سیاه - فصل ۱"}]}
+{"lastUpdate":"2020-03-17 12:35:40","id":37004,"name":"رعد سیاه","image":"/Content/Upload/Images/961215c9-3a17-4ac0-981c-2d2789f42680.JPG","seasons":[{"id":37006,"name":"رعد سیاه - فصل ۱"}]}

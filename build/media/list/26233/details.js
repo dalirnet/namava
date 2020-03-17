@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:54:12","id":26233,"name":"نفوذی","image":"/Content/Upload/Images/36fdd20e-8947-491e-a5e5-4fce07a2c53b.jpg","seasons":[{"id":26234,"name":"نفوذی - فصل ۱"}]}
+{"lastUpdate":"2020-03-17 12:36:36","id":26233,"name":"نفوذی","image":"/Content/Upload/Images/36fdd20e-8947-491e-a5e5-4fce07a2c53b.jpg","seasons":[{"id":26234,"name":"نفوذی - فصل ۱"}]}

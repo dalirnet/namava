@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:54:47","id":14986,"name":"یک سنگ عجیب","image":"/Content/Upload/Images/c5789bca-df75-4566-82a0-5b5c6ecc5a91.jpg","seasons":[{"id":14987,"name":"یک سنگ عجیب - فصل ۱"}]}
+{"lastUpdate":"2020-03-17 12:37:23","id":14986,"name":"یک سنگ عجیب","image":"/Content/Upload/Images/c5789bca-df75-4566-82a0-5b5c6ecc5a91.jpg","seasons":[{"id":14987,"name":"یک سنگ عجیب - فصل ۱"}]}

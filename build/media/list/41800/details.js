@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:53:34","id":41800,"name":"بابیل","image":"/Content/Upload/Images/4b50e0d5-6d58-4572-9ab5-0a19a493be80.jpg","seasons":[{"id":41811,"name":"بابیل - فصل ۱"}]}
+{"lastUpdate":"2020-03-17 12:35:35","id":41800,"name":"بابیل","image":"/Content/Upload/Images/4b50e0d5-6d58-4572-9ab5-0a19a493be80.jpg","seasons":[{"id":41811,"name":"بابیل - فصل ۱"}]}

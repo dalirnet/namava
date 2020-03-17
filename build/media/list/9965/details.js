@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:54:50","id":9965,"name":"گروگان","image":"/Content/Upload/Images/2b70857a-0d81-4e93-8a52-92a8fad47573.jpg","seasons":[{"id":9972,"name":"گروگان"}]}
+{"lastUpdate":"2020-03-17 12:37:27","id":9965,"name":"گروگان","image":"/Content/Upload/Images/2b70857a-0d81-4e93-8a52-92a8fad47573.jpg","seasons":[{"id":9972,"name":"گروگان"}]}

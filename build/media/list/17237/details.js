@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:54:45","id":17237,"name":"بادیگارد","image":"/Content/Upload/Images/1d7f44c6-1a06-4704-a0aa-9bf233dbbbd8.jpg","seasons":[{"id":17238,"name":"بادیگارد - فصل ۱"}]}
+{"lastUpdate":"2020-03-17 12:37:20","id":17237,"name":"بادیگارد","image":"/Content/Upload/Images/1d7f44c6-1a06-4704-a0aa-9bf233dbbbd8.jpg","seasons":[{"id":17238,"name":"بادیگارد - فصل ۱"}]}

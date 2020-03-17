@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:54:29","id":15415,"name":"پیتزا شو","image":"/Content/Upload/Images/1a03fa52-974c-4b07-9929-20c3f73e2362.jpg","seasons":[{"id":15416,"name":"پیتزا شو - فصل ۱"}]}
+{"lastUpdate":"2020-03-17 12:37:01","id":15415,"name":"پیتزا شو","image":"/Content/Upload/Images/1a03fa52-974c-4b07-9929-20c3f73e2362.jpg","seasons":[{"id":15416,"name":"پیتزا شو - فصل ۱"}]}

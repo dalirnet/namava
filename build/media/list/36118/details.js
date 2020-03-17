@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:53:44","id":36118,"name":"برای من مرده","image":"/Content/Upload/Images/1a339f7f-469c-4e37-b31d-43f3f6b41f61.jpg","seasons":[{"id":36229,"name":"برای من مرده - فصل ۱"}]}
+{"lastUpdate":"2020-03-17 12:35:52","id":36118,"name":"برای من مرده","image":"/Content/Upload/Images/1a339f7f-469c-4e37-b31d-43f3f6b41f61.jpg","seasons":[{"id":36229,"name":"برای من مرده - فصل ۱"}]}

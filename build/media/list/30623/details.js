@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:54:01","id":30623,"name":"داستان زندگی","image":"/Content/Upload/Images/6f76d1d5-e3a6-4aad-a6fb-8bada62456e0.jpg","seasons":[{"id":30624,"name":"داستان زندگی - فصل ۱"}]}
+{"lastUpdate":"2020-03-17 12:36:22","id":30623,"name":"داستان زندگی","image":"/Content/Upload/Images/6f76d1d5-e3a6-4aad-a6fb-8bada62456e0.jpg","seasons":[{"id":30624,"name":"داستان زندگی - فصل ۱"}]}

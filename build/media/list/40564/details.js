@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:53:35","id":40564,"name":"کریگ","image":"/Content/Upload/Images/30420779-d2d5-4825-8456-e5d87d5b69ba.JPG","seasons":[{"id":40578,"name":"کریگ - فصل ۱"}]}
+{"lastUpdate":"2020-03-17 12:35:36","id":40564,"name":"کریگ","image":"/Content/Upload/Images/30420779-d2d5-4825-8456-e5d87d5b69ba.JPG","seasons":[{"id":40578,"name":"کریگ - فصل ۱"}]}

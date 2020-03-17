@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:54:41","id":15846,"name":"۱۳ شمالی","image":"/Content/Upload/Images/e6f79894-64b8-420a-817e-9629acbe3599.jpg","seasons":[{"id":15848,"name":"۱۳ شمالی"}]}
+{"lastUpdate":"2020-03-17 12:37:18","id":15846,"name":"۱۳ شمالی","image":"/Content/Upload/Images/e6f79894-64b8-420a-817e-9629acbe3599.jpg","seasons":[{"id":15848,"name":"۱۳ شمالی"}]}

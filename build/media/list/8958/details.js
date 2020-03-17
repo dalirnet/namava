@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:54:45","id":8958,"name":"تابو","image":"/Content/Upload/Images/410d0b23-d997-4d6e-9392-898075ef4df1.jpg","seasons":[{"id":8963,"name":"تابو - فصل ۱"}]}
+{"lastUpdate":"2020-03-17 12:37:21","id":8958,"name":"تابو","image":"/Content/Upload/Images/410d0b23-d997-4d6e-9392-898075ef4df1.jpg","seasons":[{"id":8963,"name":"تابو - فصل ۱"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:53:44","id":35272,"name":"فلش","image":"/Content/Upload/Images/edbfaed7-797e-4677-94ad-10e26560f57f.jpg","seasons":[{"id":35279,"name":"فلش - فصل ۱"},{"id":41987,"name":"فلش - فصل ۲"}]}
+{"lastUpdate":"2020-03-17 12:35:51","id":35272,"name":"فلش","image":"/Content/Upload/Images/edbfaed7-797e-4677-94ad-10e26560f57f.jpg","seasons":[{"id":35279,"name":"فلش - فصل ۱"},{"id":41987,"name":"فلش - فصل ۲"}]}

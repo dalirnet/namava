@@ -1,0 +1,1 @@
+{"lastUpdate":"2020-03-17 12:35:35","id":42510,"name":"ماجراهای کوری کارسون","image":"/Content/Upload/Images/21fdc5af-d54a-4c9d-8cbf-d594f7a7a195.jpg","seasons":[{"id":42526,"name":"ماجراهای کوری کارسون - فصل ۱"}]}

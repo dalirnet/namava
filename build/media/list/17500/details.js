@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:54:43","id":17500,"name":"غول","image":"/Content/Upload/Images/fdc907ee-0ef1-4a04-b26f-574c5460b0aa.jpg","seasons":[{"id":17501,"name":"غول - فصل ۱"}]}
+{"lastUpdate":"2020-03-17 12:37:20","id":17500,"name":"غول","image":"/Content/Upload/Images/fdc907ee-0ef1-4a04-b26f-574c5460b0aa.jpg","seasons":[{"id":17501,"name":"غول - فصل ۱"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:54:50","id":9644,"name":"مدافعان","image":"/Content/Upload/Images/c7cf507c-7ff3-4154-9f08-e7565db669a5.jpg","seasons":[{"id":9650,"name":"مدافعان - فصل ۱"}]}
+{"lastUpdate":"2020-03-17 12:37:27","id":9644,"name":"مدافعان","image":"/Content/Upload/Images/c7cf507c-7ff3-4154-9f08-e7565db669a5.jpg","seasons":[{"id":9650,"name":"مدافعان - فصل ۱"}]}

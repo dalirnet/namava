@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:53:52","id":34091,"name":"برای تمام بشریت","image":"/Content/Upload/Images/5d9a86bf-5e3f-45eb-bd0c-b4c1a35d790e.jpg","seasons":[{"id":34139,"name":"برای تمام بشریت - فصل ۱"}]}
+{"lastUpdate":"2020-03-17 12:36:02","id":34091,"name":"برای تمام بشریت","image":"/Content/Upload/Images/5d9a86bf-5e3f-45eb-bd0c-b4c1a35d790e.jpg","seasons":[{"id":34139,"name":"برای تمام بشریت - فصل ۱"}]}

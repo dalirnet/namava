@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:54:48","id":15016,"name":"رامکال","image":"/Content/Upload/Images/ab6478bb-ee81-4d8d-9421-da2078fe5387.jpg","seasons":[{"id":15017,"name":"رامکال - فصل ۱"}]}
+{"lastUpdate":"2020-03-17 12:37:25","id":15016,"name":"رامکال","image":"/Content/Upload/Images/ab6478bb-ee81-4d8d-9421-da2078fe5387.jpg","seasons":[{"id":15017,"name":"رامکال - فصل ۱"}]}

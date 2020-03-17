@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:54:10","id":28905,"name":"نابغه","image":"/Content/Upload/Images/74f651f6-a112-424f-990d-e93185ea3baf.jpg","seasons":[{"id":28914,"name":"نابغه - فصل ۱"}]}
+{"lastUpdate":"2020-03-17 12:36:33","id":28905,"name":"نابغه","image":"/Content/Upload/Images/74f651f6-a112-424f-990d-e93185ea3baf.jpg","seasons":[{"id":28914,"name":"نابغه - فصل ۱"}]}

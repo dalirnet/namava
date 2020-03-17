@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:53:54","id":33463,"name":"قطار بی انتها","image":"/Content/Upload/Images/e5f27556-42b6-4486-ab5f-f458c468be0f.jpg","seasons":[{"id":33496,"name":"قطار بی انتها - فصل ۱"}]}
+{"lastUpdate":"2020-03-17 12:36:02","id":33463,"name":"قطار بی انتها","image":"/Content/Upload/Images/800e3c6a-4058-4aad-89bf-f565a529e3e3.jpg","seasons":[{"id":33496,"name":"قطار بی انتها - فصل ۱"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:54:47","id":14618,"name":"هفت ثانیه","image":"/Content/Upload/Images/6aa608f7-fb23-43c7-be7d-f45c27a99993.jpg","seasons":[{"id":14619,"name":"هفت ثانیه - فصل ۱"}]}
+{"lastUpdate":"2020-03-17 12:37:23","id":14618,"name":"هفت ثانیه","image":"/Content/Upload/Images/6aa608f7-fb23-43c7-be7d-f45c27a99993.jpg","seasons":[{"id":14619,"name":"هفت ثانیه - فصل ۱"}]}

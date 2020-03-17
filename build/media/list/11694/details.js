@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:54:49","id":11694,"name":"مدیر شیفت شب","image":"/Content/Upload/Images/1ab503a6-99dc-4d4b-9a3d-4e4cceb941f4.jpg","seasons":[{"id":11702,"name":"مدیر شیفت شب - فصل ۱"}]}
+{"lastUpdate":"2020-03-17 12:37:26","id":11694,"name":"مدیر شیفت شب","image":"/Content/Upload/Images/1ab503a6-99dc-4d4b-9a3d-4e4cceb941f4.jpg","seasons":[{"id":11702,"name":"مدیر شیفت شب - فصل ۱"}]}

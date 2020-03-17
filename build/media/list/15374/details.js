@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:54:47","id":15374,"name":"پوکویو","image":"/Content/Upload/Images/a7d5a307-4375-4be7-8487-0bb6ed2aa845.jpg","seasons":[{"id":15377,"name":"پوکویو"}]}
+{"lastUpdate":"2020-03-17 12:37:25","id":15374,"name":"پوکویو","image":"/Content/Upload/Images/a7d5a307-4375-4be7-8487-0bb6ed2aa845.jpg","seasons":[{"id":15377,"name":"پوکویو"}]}

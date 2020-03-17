@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:53:35","id":40527,"name":"سونیک بوم","image":"/Content/Upload/Images/1bc5fac5-22ee-420e-a92d-5c2b8e39ed5b.JPG","seasons":[{"id":40537,"name":"سونیک بوم - فصل ۱"}]}
+{"lastUpdate":"2020-03-17 12:35:38","id":40527,"name":"سونیک بوم","image":"/Content/Upload/Images/1bc5fac5-22ee-420e-a92d-5c2b8e39ed5b.JPG","seasons":[{"id":40537,"name":"سونیک بوم - فصل ۱"}]}

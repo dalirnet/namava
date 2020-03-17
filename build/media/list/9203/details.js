@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:54:41","id":9203,"name":"کسلوانیا","image":"/Content/Upload/Images/3958cf37-0143-478b-aaa7-21402ac8f158.jpg","seasons":[{"id":9206,"name":"کسلوانیا - فصل ۱"},{"id":18146,"name":"کسلوانیا - فصل ۲"}]}
+{"lastUpdate":"2020-03-17 12:37:17","id":9203,"name":"کسلوانیا","image":"/Content/Upload/Images/3958cf37-0143-478b-aaa7-21402ac8f158.jpg","seasons":[{"id":9206,"name":"کسلوانیا - فصل ۱"},{"id":18146,"name":"کسلوانیا - فصل ۲"}]}

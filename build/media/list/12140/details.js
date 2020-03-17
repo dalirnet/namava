@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:54:47","id":12140,"name":"دفترچه مرگ","image":"/Content/Upload/Images/58170b96-26e1-4754-b20f-8552eaed022e.jpg","seasons":[{"id":12141,"name":"دفترچه مرگ"}]}
+{"lastUpdate":"2020-03-17 12:37:23","id":12140,"name":"دفترچه مرگ","image":"/Content/Upload/Images/58170b96-26e1-4754-b20f-8552eaed022e.jpg","seasons":[{"id":12141,"name":"دفترچه مرگ"}]}

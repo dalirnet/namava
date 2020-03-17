@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:54:37","id":19974,"name":"وایولت اورگاردن","image":"/Content/Upload/Images/082a67a5-1c9f-4622-8ddb-17588560c0bf.jpg","seasons":[{"id":19976,"name":"وایولت اورگاردن - فصل ۱"}]}
+{"lastUpdate":"2020-03-17 12:37:12","id":19974,"name":"وایولت اورگاردن","image":"/Content/Upload/Images/082a67a5-1c9f-4622-8ddb-17588560c0bf.jpg","seasons":[{"id":19976,"name":"وایولت اورگاردن - فصل ۱"}]}

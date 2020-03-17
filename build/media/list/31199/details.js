@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-04 09:53:55","id":31199,"name":"اژدهاسواران امدادگر","image":"/Content/Upload/Images/41d3cd97-e0e8-466b-8787-e2b2aedb84ed.jpg","seasons":[{"id":31205,"name":"اژدهاسواران امدادگر"}]}
+{"lastUpdate":"2020-03-17 12:36:05","id":31199,"name":"اژدهاسواران امدادگر","image":"/Content/Upload/Images/41d3cd97-e0e8-466b-8787-e2b2aedb84ed.jpg","seasons":[{"id":31205,"name":"اژدهاسواران امدادگر"}]}
