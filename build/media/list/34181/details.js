@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:36:02","id":34181,"name":"سارا و اردک","image":"/Content/Upload/Images/d22f3107-1a00-4950-ac1e-eaa5a87ef376.jpg","seasons":[{"id":34202,"name":"سارا و اردک - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:14","id":34181,"name":"سارا و اردک","image":"/Content/Upload/Images/2799503b-e7fe-4643-9981-2d64d589314f.jpg","seasons":[{"id":34202,"name":"سارا و اردک - فصل ۱"},{"id":43991,"name":"سارا و اردک - فصل ۲"}]}

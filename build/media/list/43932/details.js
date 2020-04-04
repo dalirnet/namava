@@ -1,0 +1,1 @@
+{"lastUpdate":"2020-04-04 10:10:52","id":43932,"name":"سپیده دم","image":"/Content/Upload/Images/e66b1dfd-49a6-40d0-a758-60d250d944b0.jpg","seasons":[{"id":43933,"name":"سپیده دم - فصل ۱"}]}

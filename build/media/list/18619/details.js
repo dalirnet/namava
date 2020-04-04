@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:37:16","id":18619,"name":"هیلدا","image":"/Content/Upload/Images/6d88484f-f159-436a-837e-64085fd8fb7e.jpg","seasons":[{"id":18629,"name":"هیلدا"}]}
+{"lastUpdate":"2020-04-04 10:11:56","id":18619,"name":"هیلدا","image":"/Content/Upload/Images/6d88484f-f159-436a-837e-64085fd8fb7e.jpg","seasons":[{"id":18629,"name":"هیلدا"}]}

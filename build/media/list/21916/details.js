@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:37:12","id":21916,"name":"عشق، مرگ و ربات‌ها","image":"/Content/Upload/Images/ec8ab7bc-9bf2-4fe1-a271-c96921bff6d6.jpg","seasons":[{"id":21917,"name":"عشق، مرگ و ربات‌ها - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:53","id":21916,"name":"عشق، مرگ و ربات‌ها","image":"/Content/Upload/Images/ec8ab7bc-9bf2-4fe1-a271-c96921bff6d6.jpg","seasons":[{"id":21917,"name":"عشق، مرگ و ربات‌ها - فصل ۱"}]}

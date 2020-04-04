@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:37:19","id":14675,"name":"فوتبالیست‌ها (سری جدید)","image":"/Content/Upload/Images/538f2c3c-41d4-42f4-a6d6-a682acac9ec5.jpg","seasons":[{"id":14681,"name":"فوتبالیست‌ها (سری جدید) - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:57","id":14675,"name":"فوتبالیست‌ها (سری جدید)","image":"/Content/Upload/Images/538f2c3c-41d4-42f4-a6d6-a682acac9ec5.jpg","seasons":[{"id":14681,"name":"فوتبالیست‌ها (سری جدید) - فصل ۱"}]}

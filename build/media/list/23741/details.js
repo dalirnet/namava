@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:36:56","id":23741,"name":"به خودت بیا چارلی!","image":"/Content/Upload/Images/3b16635b-52d6-4711-a793-1c78a75f7815.jpg","seasons":[{"id":23742,"name":"به خودت بیا چارلی! - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:42","id":23741,"name":"به خودت بیا چارلی!","image":"/Content/Upload/Images/3b16635b-52d6-4711-a793-1c78a75f7815.jpg","seasons":[{"id":23742,"name":"به خودت بیا چارلی! - فصل ۱"}]}

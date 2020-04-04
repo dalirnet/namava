@@ -1,0 +1,1 @@
+{"lastUpdate":"2020-04-04 10:10:53","id":42039,"name":"برگزیده","image":"/Content/Upload/Images/dbea4251-4a98-4733-84e9-7869a343dc94.jpg","seasons":[{"id":42069,"name":"برگزیده - فصل ۱"}]}

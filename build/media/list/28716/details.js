@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:36:34","id":28716,"name":"پزشک خوب","image":"/Content/Upload/Images/848460ed-8951-4d04-b310-908a0bf0b2d3.jpg","seasons":[{"id":28728,"name":"پزشک خوب - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:30","id":28716,"name":"پزشک خوب","image":"/Content/Upload/Images/a71eeca8-559c-4275-89cd-5417336720d7.jpg","seasons":[{"id":28728,"name":"پزشک خوب - فصل ۱"},{"id":43853,"name":"پزشک خوب - فصل ۲"}]}

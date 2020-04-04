@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:36:49","id":25605,"name":"تو که از ستاره ها آمدی","image":"/Content/Upload/Images/8e413742-9c2c-48cb-810c-daf4e92ef010.jpg","seasons":[{"id":25606,"name":"تو که از ستاره ها آمدی - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:38","id":25605,"name":"تو که از ستاره ها آمدی","image":"/Content/Upload/Images/8e413742-9c2c-48cb-810c-daf4e92ef010.jpg","seasons":[{"id":25606,"name":"تو که از ستاره ها آمدی - فصل ۱"}]}

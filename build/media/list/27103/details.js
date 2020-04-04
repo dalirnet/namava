@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:36:42","id":27103,"name":"ابله","image":"/Content/Upload/Images/05475907-4514-4fc6-9b41-68029fc4cd8d.JPG","seasons":[{"id":27106,"name":"ابله - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:34","id":27103,"name":"ابله","image":"/Content/Upload/Images/05475907-4514-4fc6-9b41-68029fc4cd8d.JPG","seasons":[{"id":27106,"name":"ابله - فصل ۱"}]}

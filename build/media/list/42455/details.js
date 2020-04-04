@@ -1,0 +1,1 @@
+{"lastUpdate":"2020-04-04 10:10:54","id":42455,"name":"عصر حجر","image":"/Content/Upload/Images/ce87dfa1-79e9-4bc8-adae-9e30f1be91f5.jpg","seasons":[{"id":42502,"name":"عصر حجر - فصل ۱"}]}

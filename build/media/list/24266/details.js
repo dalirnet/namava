@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:36:55","id":24266,"name":"کنستانتین: شهر شیاطین","image":"/Content/Upload/Images/eb6c6799-b63f-4d3d-a3f9-d77554c2800e.jpg","seasons":[{"id":24267,"name":"کنستانتین: شهر شیاطین - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:42","id":24266,"name":"کنستانتین: شهر شیاطین","image":"/Content/Upload/Images/eb6c6799-b63f-4d3d-a3f9-d77554c2800e.jpg","seasons":[{"id":24267,"name":"کنستانتین: شهر شیاطین - فصل ۱"}]}

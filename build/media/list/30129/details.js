@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:35:53","id":30129,"name":"کرگدن","image":"/Content/Upload/Images/d322df11-8654-439e-8985-eff2c0c8d6dd.jpg","seasons":[{"id":30131,"name":"کرگدن - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:05","id":30129,"name":"کرگدن","image":"/Content/Upload/Images/d322df11-8654-439e-8985-eff2c0c8d6dd.jpg","seasons":[{"id":30131,"name":"کرگدن - فصل ۱"}]}

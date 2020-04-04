@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:35:48","id":37695,"name":"امن","image":"/Content/Upload/Images/acb8e4fc-a0b1-4c83-a989-1a02f0e37557.jpg","seasons":[{"id":37697,"name":"امن - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:02","id":37695,"name":"امن","image":"/Content/Upload/Images/acb8e4fc-a0b1-4c83-a989-1a02f0e37557.jpg","seasons":[{"id":37697,"name":"امن - فصل ۱"}]}

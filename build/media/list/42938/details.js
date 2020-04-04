@@ -1,0 +1,1 @@
+{"lastUpdate":"2020-04-04 10:10:53","id":42938,"name":"روزی روزگاری","image":"/Content/Upload/Images/d111d6f6-c50b-438c-9428-dd0fdecdad04.jpg","seasons":[{"id":43004,"name":"روزی روزگاری - فصل ۱"}]}

@@ -1,0 +1,1 @@
+{"lastUpdate":"2020-04-04 10:10:52","id":44176,"name":"ناتمام","image":"/Content/Upload/Images/ec18e6f8-595c-4bb5-bcb3-4f638c97917c.jpg","seasons":[{"id":44182,"name":"ناتمام - فصل ۱"}]}

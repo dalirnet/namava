@@ -1,0 +1,1 @@
+{"lastUpdate":"2020-04-04 10:10:50","id":44554,"name":"لژ ۴۹","image":"/Content/Upload/Images/7d9e5c7c-7dc8-48e9-8249-c8b362755937.jpg","seasons":[{"id":44565,"name":"لژ ۴۹ - فصل ۱"}]}

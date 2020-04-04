@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:37:15","id":18903,"name":"شب‌پره‌ها","image":"/Content/Upload/Images/6d642ac8-34c3-44af-b091-f71e84064f90.jpg","seasons":[{"id":18911,"name":"شب‌پره‌ها - فصل اول"}]}
+{"lastUpdate":"2020-04-04 10:11:54","id":18903,"name":"شب‌پره‌ها","image":"/Content/Upload/Images/6d642ac8-34c3-44af-b091-f71e84064f90.jpg","seasons":[{"id":18911,"name":"شب‌پره‌ها - فصل اول"}]}

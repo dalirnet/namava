@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:36:47","id":26057,"name":"تئوری بیگ بنگ","image":"/Content/Upload/Images/ac88ffc5-cdc9-45cf-a3aa-42c71de26a48.jpg","seasons":[{"id":26065,"name":"تئوری بیگ بنگ - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:37","id":26057,"name":"تئوری بیگ بنگ","image":"/Content/Upload/Images/ac88ffc5-cdc9-45cf-a3aa-42c71de26a48.jpg","seasons":[{"id":26065,"name":"تئوری بیگ بنگ - فصل ۱"}]}

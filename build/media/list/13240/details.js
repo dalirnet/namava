@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:37:23","id":13240,"name":"گلشیفته","image":"/Content/Upload/Images/be5e68c5-a703-4d4f-9579-eb9477cdcdf0.jpg","seasons":[{"id":13241,"name":"گلشیفته - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:12:01","id":13240,"name":"گلشیفته","image":"/Content/Upload/Images/be5e68c5-a703-4d4f-9579-eb9477cdcdf0.jpg","seasons":[{"id":13241,"name":"گلشیفته - فصل ۱"}]}

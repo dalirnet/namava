@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:36:33","id":29236,"name":"گوش درازها","image":"/Content/Upload/Images/789a429d-6300-4261-90ba-996f622168aa.jpg","seasons":[{"id":29237,"name":"گوش درازها - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:27","id":29236,"name":"گوش درازها","image":"/Content/Upload/Images/789a429d-6300-4261-90ba-996f622168aa.jpg","seasons":[{"id":29237,"name":"گوش درازها - فصل ۱"}]}

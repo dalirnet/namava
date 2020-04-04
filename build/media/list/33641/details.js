@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:35:59","id":33641,"name":"مانتیس","image":"/Content/Upload/Images/39a9a8df-3a7f-40b1-b106-0d7cd82a111d.jpg","seasons":[{"id":33649,"name":"مانتیس - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:10","id":33641,"name":"مانتیس","image":"/Content/Upload/Images/39a9a8df-3a7f-40b1-b106-0d7cd82a111d.jpg","seasons":[{"id":33649,"name":"مانتیس - فصل ۱"}]}

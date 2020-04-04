@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:35:44","id":38185,"name":"حماسه وینلند","image":"/Content/Upload/Images/66b13b59-da88-45bf-96f7-1f462fb62da3.jpg","seasons":[{"id":38193,"name":"حماسه وینلند - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:01","id":38185,"name":"حماسه وینلند","image":"/Content/Upload/Images/66b13b59-da88-45bf-96f7-1f462fb62da3.jpg","seasons":[{"id":38193,"name":"حماسه وینلند - فصل ۱"}]}

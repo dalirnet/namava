@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:36:33","id":29156,"name":"فارگو","image":"/Content/Upload/Images/3953f084-ce11-4371-858d-1f60d623a76c.JPG","seasons":[{"id":29157,"name":"فارگو - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:28","id":29156,"name":"فارگو","image":"/Content/Upload/Images/3953f084-ce11-4371-858d-1f60d623a76c.JPG","seasons":[{"id":29157,"name":"فارگو - فصل ۱"}]}

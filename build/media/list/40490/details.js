@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:35:37","id":40490,"name":"سیاره شین","image":"/Content/Upload/Images/3505508d-258c-4c1d-8426-70052abafd52.JPG","seasons":[{"id":40512,"name":"سیاره شین - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:10:58","id":40490,"name":"سیاره شین","image":"/Content/Upload/Images/3505508d-258c-4c1d-8426-70052abafd52.JPG","seasons":[{"id":40512,"name":"سیاره شین - فصل ۱"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:35:52","id":36326,"name":"دل (ویژه ناشنوایان)","image":"/Content/Upload/Images/2030899b-3b95-4adf-bd75-54f4530c475e.jpg","seasons":[{"id":36327,"name":"دل (ویژه ناشنوایان) - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:04","id":36326,"name":"دل (ویژه ناشنوایان)","image":"/Content/Upload/Images/2030899b-3b95-4adf-bd75-54f4530c475e.jpg","seasons":[{"id":36327,"name":"دل (ویژه ناشنوایان) - فصل ۱"}]}

@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:37:12","id":19304,"name":"میرزاپور","image":"/Content/Upload/Images/52a6ff77-8dcb-4375-ae09-c9e728a45b41.jpg","seasons":[{"id":19305,"name":"میرزاپور - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:53","id":19304,"name":"میرزاپور","image":"/Content/Upload/Images/52a6ff77-8dcb-4375-ae09-c9e728a45b41.jpg","seasons":[{"id":19305,"name":"میرزاپور - فصل ۱"}]}

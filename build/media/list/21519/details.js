@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:37:00","id":21519,"name":"میز نهایی","image":"/Content/Upload/Images/e022e8e3-b68e-483b-aae9-0afa7e4ec830.jpg","seasons":[{"id":21520,"name":"میز نهایی - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:45","id":21519,"name":"میز نهایی","image":"/Content/Upload/Images/e022e8e3-b68e-483b-aae9-0afa7e4ec830.jpg","seasons":[{"id":21520,"name":"میز نهایی - فصل ۱"}]}

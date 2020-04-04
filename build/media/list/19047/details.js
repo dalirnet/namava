@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:37:15","id":19047,"name":"شاهگوش","image":"/Content/Upload/Images/d13cf09c-d8c9-4cef-a3e2-fbe1737ea08d.jpg","seasons":[{"id":19075,"name":"شاهگوش - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:54","id":19047,"name":"شاهگوش","image":"/Content/Upload/Images/d13cf09c-d8c9-4cef-a3e2-fbe1737ea08d.jpg","seasons":[{"id":19075,"name":"شاهگوش - فصل ۱"}]}

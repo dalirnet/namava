@@ -1,0 +1,1 @@
+{"lastUpdate":"2020-04-04 10:10:53","id":43199,"name":"شهر رنگارنگ چارلی","image":"/Content/Upload/Images/b36dbf50-ddbe-429b-9539-e8a5c6a935e4.jpg","seasons":[{"id":43230,"name":"شهر رنگارنگ چارلی - فصل ۱"}]}

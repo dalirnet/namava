@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:35:40","id":38870,"name":"جستجوی افسانه","image":"/Content/Upload/Images/ba021b28-1083-4f57-9769-23a1537640f6.jpg","seasons":[{"id":38872,"name":"جستجوی افسانه - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:10:59","id":38870,"name":"جستجوی افسانه","image":"/Content/Upload/Images/ba021b28-1083-4f57-9769-23a1537640f6.jpg","seasons":[{"id":38872,"name":"جستجوی افسانه - فصل ۱"}]}

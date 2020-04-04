@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:35:36","id":40645,"name":"مولانگ","image":"/Content/Upload/Images/66acfee4-ce6b-48c1-a632-209af9720a9c.JPG","seasons":[{"id":40647,"name":"مولانگ - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:10:56","id":40645,"name":"مولانگ","image":"/Content/Upload/Images/66acfee4-ce6b-48c1-a632-209af9720a9c.JPG","seasons":[{"id":40647,"name":"مولانگ - فصل ۱"}]}

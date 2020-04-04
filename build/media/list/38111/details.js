@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:35:48","id":38111,"name":"هفت‌ جهان، یک سیاره","image":"/Content/Upload/Images/c806c043-ba97-4e80-b1e9-525c9d849aa6.JPG","seasons":[{"id":38132,"name":"هفت‌ جهان، یک سیاره - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:01","id":38111,"name":"هفت‌ جهان، یک سیاره","image":"/Content/Upload/Images/c806c043-ba97-4e80-b1e9-525c9d849aa6.JPG","seasons":[{"id":38132,"name":"هفت‌ جهان، یک سیاره - فصل ۱"}]}

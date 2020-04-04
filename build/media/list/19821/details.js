@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:37:01","id":19821,"name":"با استعداد","image":"/Content/Upload/Images/e07caf05-1bbe-4026-b560-ab9120e6dcc4.jpg","seasons":[{"id":19827,"name":"با استعداد - فصل ۱"},{"id":23565,"name":"با استعداد - فصل ۲"}]}
+{"lastUpdate":"2020-04-04 10:11:46","id":19821,"name":"با استعداد","image":"/Content/Upload/Images/e07caf05-1bbe-4026-b560-ab9120e6dcc4.jpg","seasons":[{"id":19827,"name":"با استعداد - فصل ۱"},{"id":23565,"name":"با استعداد - فصل ۲"}]}

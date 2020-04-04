@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:37:00","id":18242,"name":"خدایان ماشین: از فرش تا عرش","image":"/Content/Upload/Images/4e28e499-5690-4fed-95b9-8dfdcb345118.jpg","seasons":[{"id":18243,"name":"خدایان ماشین: از فرش تا عرش - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:45","id":18242,"name":"خدایان ماشین: از فرش تا عرش","image":"/Content/Upload/Images/4e28e499-5690-4fed-95b9-8dfdcb345118.jpg","seasons":[{"id":18243,"name":"خدایان ماشین: از فرش تا عرش - فصل ۱"}]}

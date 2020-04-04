@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:36:28","id":30300,"name":"باور","image":"/Content/Upload/Images/9deba68b-d328-4220-95c7-e8b425e378f1.jpg","seasons":[{"id":30302,"name":"باور - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:21","id":30300,"name":"باور","image":"/Content/Upload/Images/9deba68b-d328-4220-95c7-e8b425e378f1.jpg","seasons":[{"id":30302,"name":"باور - فصل ۱"}]}

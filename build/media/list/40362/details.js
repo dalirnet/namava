@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:35:37","id":40362,"name":"زامبی های خنگ","image":"/Content/Upload/Images/885e9f44-6ca0-4c83-96d2-0013d9ef2aa8.jpg","seasons":[{"id":40364,"name":"زامبی های خنگ - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:10:58","id":40362,"name":"زامبی های خنگ","image":"/Content/Upload/Images/885e9f44-6ca0-4c83-96d2-0013d9ef2aa8.jpg","seasons":[{"id":40364,"name":"زامبی های خنگ - فصل ۱"}]}

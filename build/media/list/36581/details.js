@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:35:52","id":36581,"name":"استامپ تاون","image":"/Content/Upload/Images/93c67a6f-18de-427a-b0df-1f9a72cc7dfd.jpg","seasons":[{"id":36584,"name":"استامپ تاون - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:04","id":36581,"name":"استامپ تاون","image":"/Content/Upload/Images/93c67a6f-18de-427a-b0df-1f9a72cc7dfd.jpg","seasons":[{"id":36584,"name":"استامپ تاون - فصل ۱"}]}

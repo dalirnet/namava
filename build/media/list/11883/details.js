@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:37:17","id":11883,"name":"سفرهای علمی","image":"/Content/Upload/Images/bf92b224-b1e8-4e20-b0e7-9aaa2e28bcb6.jpg","seasons":[{"id":11884,"name":"سفرهای علمی - فصل ۱"},{"id":18452,"name":"سفرهای علمی - فصل ۲"}]}
+{"lastUpdate":"2020-04-04 10:11:56","id":11883,"name":"سفرهای علمی","image":"/Content/Upload/Images/bf92b224-b1e8-4e20-b0e7-9aaa2e28bcb6.jpg","seasons":[{"id":11884,"name":"سفرهای علمی - فصل ۱"},{"id":18452,"name":"سفرهای علمی - فصل ۲"}]}

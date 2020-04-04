@@ -1,0 +1,1 @@
+{"lastUpdate":"2020-04-04 10:10:54","id":43248,"name":"لوک خوش شانس","image":"/Content/Upload/Images/89ddfdd6-2d1f-484c-8552-ca72dd55a527.jpg","seasons":[{"id":43281,"name":"لوک خوش شانس - فصل ۱"}]}

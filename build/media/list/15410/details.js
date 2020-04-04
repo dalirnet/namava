@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:37:21","id":15410,"name":"کافر","image":"/Content/Upload/Images/8794625a-a981-4fd2-889d-86c6968589a4.jpg","seasons":[{"id":15427,"name":"کافر - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:12:00","id":15410,"name":"کافر","image":"/Content/Upload/Images/8794625a-a981-4fd2-889d-86c6968589a4.jpg","seasons":[{"id":15427,"name":"کافر - فصل ۱"}]}

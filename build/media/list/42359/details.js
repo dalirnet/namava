@@ -1,0 +1,1 @@
+{"lastUpdate":"2020-04-04 10:10:51","id":42359,"name":"جنگ داخلی","image":"/Content/Upload/Images/5ce8d400-34fa-4966-8b84-d749acc2c8cf.jpg","seasons":[{"id":42375,"name":"جنگ داخلی - فصل ۱"}]}

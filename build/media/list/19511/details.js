@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:35:53","id":19511,"name":"کارمن سندیگو","image":"/Content/Upload/Images/0adccfc7-1ef4-48e7-beef-dd480a215dac.JPG","seasons":[{"id":19512,"name":"کارمن سندیگو - فصل ۱"},{"id":35155,"name":"کارمن سندیگو - فصل ۲"}]}
+{"lastUpdate":"2020-04-04 10:11:06","id":19511,"name":"کارمن سندیگو","image":"/Content/Upload/Images/0adccfc7-1ef4-48e7-beef-dd480a215dac.JPG","seasons":[{"id":19512,"name":"کارمن سندیگو - فصل ۱"},{"id":35155,"name":"کارمن سندیگو - فصل ۲"}]}

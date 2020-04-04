@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:35:43","id":38647,"name":"تعقیب جنایتکار","image":"/Content/Upload/Images/71c399a1-aa4c-4044-a1e3-73417ab6f598.jpg","seasons":[{"id":38684,"name":"تعقیب جنایتکار - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:01","id":38647,"name":"تعقیب جنایتکار","image":"/Content/Upload/Images/71c399a1-aa4c-4044-a1e3-73417ab6f598.jpg","seasons":[{"id":38684,"name":"تعقیب جنایتکار - فصل ۱"}]}

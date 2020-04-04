@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:36:03","id":27628,"name":"آخر دنیا","image":"/Content/Upload/Images/36d09b2a-b692-471f-b231-5c5275932d08.jpg","seasons":[{"id":27637,"name":"آخر دنیا - فصل ۱"},{"id":33435,"name":"آخر دنیا - فصل ۲"}]}
+{"lastUpdate":"2020-04-04 10:11:14","id":27628,"name":"آخر دنیا","image":"/Content/Upload/Images/36d09b2a-b692-471f-b231-5c5275932d08.jpg","seasons":[{"id":27637,"name":"آخر دنیا - فصل ۱"},{"id":33435,"name":"آخر دنیا - فصل ۲"}]}

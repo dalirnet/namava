@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:35:58","id":34789,"name":"سندیتون","image":"/Content/Upload/Images/3c133779-632d-4d67-95d1-704f354d61dd.jpg","seasons":[{"id":34790,"name":"سندیتون - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:09","id":34789,"name":"سندیتون","image":"/Content/Upload/Images/3c133779-632d-4d67-95d1-704f354d61dd.jpg","seasons":[{"id":34790,"name":"سندیتون - فصل ۱"}]}

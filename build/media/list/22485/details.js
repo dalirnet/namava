@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:36:34","id":22485,"name":"شخصیت","image":"/Content/Upload/Images/6db18084-e807-4e62-a1f9-be6045d655c9.jpg","seasons":[{"id":22495,"name":"شخصیت - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:29","id":22485,"name":"شخصیت","image":"/Content/Upload/Images/6db18084-e807-4e62-a1f9-be6045d655c9.jpg","seasons":[{"id":22495,"name":"شخصیت - فصل ۱"}]}

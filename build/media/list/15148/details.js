@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:37:25","id":15148,"name":"پدیده‌ها","image":"/Content/Upload/Images/46b4cc63-7b35-454d-8089-8890e3359383.jpg","seasons":[{"id":15153,"name":"پدیده‌ها - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:12:02","id":15148,"name":"پدیده‌ها","image":"/Content/Upload/Images/46b4cc63-7b35-454d-8089-8890e3359383.jpg","seasons":[{"id":15153,"name":"پدیده‌ها - فصل ۱"}]}

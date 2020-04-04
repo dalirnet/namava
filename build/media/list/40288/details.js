@@ -1,0 +1,1 @@
+{"lastUpdate":"2020-04-04 10:10:51","id":40288,"name":"راگناروک","image":"/Content/Upload/Images/f4c8c79f-9b03-41b1-a2c8-639195f9deab.JPG","seasons":[{"id":40289,"name":"راگناروک - فصل ۱"}]}

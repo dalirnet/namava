@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:36:52","id":24293,"name":"جنایت دهلی","image":"/Content/Upload/Images/94f39ff1-9619-4369-bb47-32da5b0706f3.jpg","seasons":[{"id":24294,"name":"جنایت دهلی - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:40","id":24293,"name":"جنایت دهلی","image":"/Content/Upload/Images/94f39ff1-9619-4369-bb47-32da5b0706f3.jpg","seasons":[{"id":24294,"name":"جنایت دهلی - فصل ۱"}]}

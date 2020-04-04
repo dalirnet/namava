@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:36:02","id":34389,"name":"قهرمانان نقابدار","image":"/Content/Upload/Images/07d79a88-5c7e-4726-beca-36825909ab4d.jpg","seasons":[{"id":34399,"name":"قهرمانان نقابدار - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:13","id":34389,"name":"قهرمانان نقابدار","image":"/Content/Upload/Images/07d79a88-5c7e-4726-beca-36825909ab4d.jpg","seasons":[{"id":34399,"name":"قهرمانان نقابدار - فصل ۱"}]}

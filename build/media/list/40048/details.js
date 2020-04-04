@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:35:38","id":40048,"name":"شنود","image":"/Content/Upload/Images/41014cf6-194e-4830-ae52-0078f8b0185c.JPG","seasons":[{"id":40050,"name":"شنود - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:10:58","id":40048,"name":"شنود","image":"/Content/Upload/Images/41014cf6-194e-4830-ae52-0078f8b0185c.JPG","seasons":[{"id":40050,"name":"شنود - فصل ۱"}]}

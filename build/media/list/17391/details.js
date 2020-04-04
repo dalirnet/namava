@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:37:18","id":17391,"name":"شوخی","image":"/Content/Upload/Images/7fd582bb-243e-4849-9f32-4461975f2c0b.jpg","seasons":[{"id":17392,"name":"شوخی - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:57","id":17391,"name":"شوخی","image":"/Content/Upload/Images/7fd582bb-243e-4849-9f32-4461975f2c0b.jpg","seasons":[{"id":17392,"name":"شوخی - فصل ۱"}]}

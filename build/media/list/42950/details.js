@@ -1,0 +1,1 @@
+{"lastUpdate":"2020-04-04 10:10:52","id":42950,"name":"ویستینگ","image":"/Content/Upload/Images/c43aec70-6b94-4949-8c75-22edace3314c.jpg","seasons":[{"id":42966,"name":"ویستینگ - فصل ۱"}]}

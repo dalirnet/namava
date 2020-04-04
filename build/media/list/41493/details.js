@@ -1,0 +1,1 @@
+{"lastUpdate":"2020-04-04 10:10:53","id":41493,"name":"آلیو کیتریج","image":"/Content/Upload/Images/4c4471bd-464f-43d1-8635-3b1da23eab23.jpg","seasons":[{"id":41512,"name":"آلیو کیتریج - فصل ۱"}]}

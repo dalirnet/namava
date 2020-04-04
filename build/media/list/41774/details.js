@@ -1,0 +1,1 @@
+{"lastUpdate":"2020-04-04 10:10:54","id":41774,"name":"محله دانیل تایگر","image":"/Content/Upload/Images/13a6839e-f312-42a5-bb7c-30fe6d68a9e9.jpg","seasons":[{"id":41783,"name":"محله دانیل تایگر - فصل ۱"}]}

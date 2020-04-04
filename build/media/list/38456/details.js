@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:35:42","id":38456,"name":"ماجراهای گربه چکمه پوش","image":"/Content/Upload/Images/eb1c898b-f82f-4d46-9ba5-bd72bd0deef6.JPG","seasons":[{"id":38487,"name":"ماجراهای گربه چکمه پوش - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:10:59","id":38456,"name":"ماجراهای گربه چکمه پوش","image":"/Content/Upload/Images/eb1c898b-f82f-4d46-9ba5-bd72bd0deef6.JPG","seasons":[{"id":38487,"name":"ماجراهای گربه چکمه پوش - فصل ۱"}]}

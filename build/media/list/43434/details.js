@@ -1,0 +1,1 @@
+{"lastUpdate":"2020-04-04 10:10:53","id":43434,"name":"مستر بین","image":"/Content/Upload/Images/27642fd9-aee9-42d3-b810-a9fcbb4c767f.jpg","seasons":[{"id":43435,"name":"مستر بین - فصل ۱"}]}

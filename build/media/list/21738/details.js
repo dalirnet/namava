@@ -1,1 +1,1 @@
-{"lastUpdate":"2020-03-17 12:37:04","id":21738,"name":"باکی","image":"/Content/Upload/Images/1d85cd6a-7a82-40ef-97c8-c038863f2b5c.jpg","seasons":[{"id":21741,"name":"باکی - فصل ۱"}]}
+{"lastUpdate":"2020-04-04 10:11:48","id":21738,"name":"باکی","image":"/Content/Upload/Images/1d85cd6a-7a82-40ef-97c8-c038863f2b5c.jpg","seasons":[{"id":21741,"name":"باکی - فصل ۱"}]}
